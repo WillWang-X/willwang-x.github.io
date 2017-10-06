@@ -5,7 +5,7 @@ tags:
 - maillist
 status: publish
 type: post
-published: true
+published: false
 ---
 
 邮件通讯与博客公众号写作有什么不一样呢？
@@ -32,7 +32,7 @@ published: true
 - 陈素封 谨上
 
 
-----
+---- 
 
 我的博客地址是 cnfeat.com 公众号：cnfeat，欢迎关注。
 
