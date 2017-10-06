@@ -10,9 +10,7 @@ permalink: /about/
 
 
 
-\<center\>
-\<p\>\<img src="[https://i.imgur.com/VZpbXPs.jpg][1]" align="center" /\>\</p\>
-\</center\>
 
+![][image-1]
 
-[1]:	https://i.imgur.com/VZpbXPs.jpg
+[image-1]:	minimalistic_edge.jpg
