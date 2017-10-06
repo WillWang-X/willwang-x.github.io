@@ -9,7 +9,7 @@ published: true
 ---
 
 
-# ❶ 引子：千面之神
+# 1. 引子：千面之神
 
 深入思考，显有成效的一个典型例子，就是Elon Mask。所以[我们看看他是如何思考的呢？][1] 一张图说明他与常人思考的差异，假设你要解构字母「A」，搞清楚构成「A」的深层原理，具体来讲，你有两种方法：
 
@@ -32,7 +32,7 @@ published: true
 借鉴Elon Mask的学习方法，我将以Hash Table这个知识点为例，融合自己的学习习惯，梳理一下学习一个知识，从入门，进阶到深入的学习策略。
 
 
-# ❷ 建构：第一印象
+# 2. 建构：第一印象
 
 对于某个知识的入门，我的策略是：**始于wikipedia, 途径google,止于著作。**
 
@@ -91,11 +91,12 @@ published: true
 ![][image-3]
 
 
+
 小结：这个时代，信息在爆炸，但是优质信息并没有，反而可能遭遇沙漠埋没黄金的下场。如何找到优质信息？答案是：**用信任过滤信息，用好书找到好书。前者是找到靠谱推荐源，如某大牛；后者是使用靠谱推荐系统，如Amazon.**
 
 
 
-# ❸ 解构：模式识别
+# 3. 解构：模式识别
 
 对知识的进阶阶段，我的策略是：**让好奇心牵引，去主题阅读，批量处理，让模式自然涌现。**
 
@@ -105,7 +106,7 @@ published: true
 
 ## 3.1 第一层：不同作者的解读
 
-1) **《Charles: Introduction to Algorithms（第3版）》**
+### 1) **《Charles: Introduction to Algorithms（第3版）》**
 
 《算法导论》这本书是从「集合」切入Hash Table, 切入的逻辑是，就像现在数学的基础是集合论，集合也是计算机科学的基础。数学的集合是不变的，而算法所操作的集合却是随时间的改变而增大，缩小或者产生其他变化，称为dynamic set。所以问题来了：如何表示和操纵有穷动态集合？
 
@@ -119,9 +120,9 @@ published: true
 
 
 
-2) **《Robert Sedgewick：Algorithms(第4版)》**
+### 2) **《Robert Sedgewick：Algorithms(第4版)》**
 
-《算法》这本书从「查找」切入Hash Table，切入的逻辑，在查找海量数据时，我们往往是像字典一样，先找到单词，然后再读出解释。而如字典般存储信息方式，我们称为符号表，每一条存储key(如单词)和value(如解释)。要寻找这样的海量信息，面临一个问题：如何高效检索他们呢？
+《算法》这本书从「查找」切入Hash Table，切入的逻辑，在查找海量数据时，我们往往是像字典一样，先找到单词，然后再读出解释。而如字典般存储信息方式，我们称为符号表，每一条存储key(如单词)和value(如解释)。要在这样的海量信息寻找他们，一个问题自然就出来了：如何高效检索他们呢？
 
 在说明两种实现算法之后，这本书用讲了三种经典数据类型来实现高效的符号表：**Binary Search Trees, Red–black trees, hash tables.**
 
@@ -133,22 +134,22 @@ published: true
 
 
 
-3) **《Anany: Introduction to the design and analysis of algorithms（第3版）》**
+### 3) **《Anany: Introduction to the design and analysis of algorithms（第3版）》**
 
 《算法设计与分析基础》这本书是从「时空权衡」角度切入Hashing的，在这个章节介绍了两种技术：
 
-- 一种是预处理问题的输入，存储得到的信息，从而可以加速之后解决问题的速度，称为input enhancement。如字符串匹配的[Boyer-Moore Algorithm][15]。
-- 另一种是仅仅是用额外的空间来加速对数据(更灵活)的获取。如散列法。
+- 一种是对问题的输入进行预处理，存储得到的信息，从而可以加速之后解决问题的速度，称为input enhancement。如字符串匹配的[Boyer-Moore Algorithm][15]。
+- 另一种是仅仅是用额外的空间来加速对数据(更灵活)的获取，如Hashing。
 
 对于Hashing则着眼于如何设计这个空间结构。
 
-首先是What, 关键词：Hashing, hash table, hash function, hash address。
+首先是**What**, 关键词：Hashing, hash table, hash function, hash address。
 
-然后遇到collisons, 如何解决，是为How: 
+然后遇到collisons, 如何解决，是为**How**: 
 - 1) open hashing, 对应separate chaining 
 - 2) close hashing, 对应open addressing。
 
-之后是Why, 为什么要学习Hashing,介绍一些Hashing的一些应用。
+之后是**Why**, 为什么要学习Hashing, 介绍一些Hashing的一些应用。
 
 一些关键词：linear probing，cluster，double hashing，rehashing，rehashing，bucket。
 
@@ -173,7 +174,7 @@ published: true
 小结：通过主题阅读，不同作者，不同语言，不同题目，让作者互相讨论，自己作旁观者清。当然，阅读过程并非一定是线形路径，更多是一种有限深度搜索之后，再调整深度继续的搜索。最好的方式是产生问题，让好奇心牵引前行。
 
 
-# ❹ 重构：融会贯通
+# 4. 重构：融会贯通
 
 在知识的深入阶段，我的策略是：**发展于思考和讨论，下切到行动指南，回归到总结输出。**
 
@@ -208,7 +209,7 @@ Hash Table 用一句话说就是：**回眸一笑百媚生！**
 小结：**讨论，连接知识与知识；行动，连接理论和经验；输出，连接自己和世界。**
 
 
-# ❺ 小结：三重境界
+# 5. 小结：三重境界
 
 宋代禅宗大师青原行思提出参禅的三重境界：参禅之初，看山是山，看水是水；禅有悟时，看山不是山，看水不是水；禅中彻悟，看山仍然山，看水仍然是水。
 
