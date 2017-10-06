@@ -169,9 +169,9 @@ published: true
 > 获取反馈是学习和改进的前提。 —— 《精益创业》
 
 通大量的同类题练习，模式自然涌现，虽然有时只可意会，不能言传。
-- Hash Table 练习笔记: https://github.com/WillWang-X/LeetCode/blob/master/Hash\_table.ipynb
+见 Hash Table 练习笔记:  [https://github.com/WillWang-X/AlgorithmsDelight/blob/master/Topic/Hash\_table.ipynb][16]
 
-小结：通过主题阅读，不同作者，不同语言，不同题目，让作者互相讨论，自己作旁观者清。当然，阅读过程并非一定是线形路径，更多是一种有限深度搜索之后，再调整深度继续的搜索。最好的方式是产生问题，让好奇心牵引前行。
+小结：通过主题阅读，不同作者，不同语言，不同题目，让作者互相讨论，自己作旁观者清。当然，阅读过程并非一定是线形路径，更多是一种有限深度搜索之后，再调整深度继续的搜索。最好的方式是**产生问题，让好奇心牵引前行。**
 
 
 # 4. 重构：融会贯通
@@ -193,7 +193,7 @@ published: true
 
 当然，按照德雷福斯模型，新手，高级新手，胜任者，精通者，专家的路径。最后专家靠的是直觉，是内隐知识。
 
-参考：[大师比新手强在哪里？][16]
+参考：[大师比新手强在哪里？][17]
 
 
 Hash Table 用一句话说就是：**回眸一笑百媚生！**
@@ -204,7 +204,7 @@ Hash Table 用一句话说就是：**回眸一笑百媚生！**
 
 ![][image-6]
 
-最后，最后可以整理成一篇文章或者笔记，因为[书写是为了更好的思考][17]。
+最后，最后可以整理成一篇文章或者笔记，因为[书写是为了更好的思考][18]。
 
 小结：**讨论，连接知识与知识；行动，连接理论和经验；输出，连接自己和世界。**
 
@@ -230,12 +230,13 @@ Hash Table 用一句话说就是：**回眸一笑百媚生！**
 [13]:	https://www.youtube.com/watch?v=shs0KM3wKv8
 [14]:	https://www.youtube.com/watch?v=FBP3JVnPBuM
 [15]:	http://whocouldthat.be/visualizing-string-matching/
-[16]:	https://mp.weixin.qq.com/s?__biz=MzA4ODM4ODQ3MQ==&mid=2651930954&idx=1&sn=e6adbf0de88acb6830ae48e123ce87e8&chksm=8bcf0752bcb88e44607c53541b3e95e1b9862b51c2955e1b332faef63f994d1be69b17b249af&mpshare=1&scene=1&srcid=0209jeNt5sJ3cMRFJYKENHBR#rd
-[17]:	http://mindhacks.cn/2009/02/09/writing-is-better-thinking/
+[16]:	https://github.com/WillWang-X/AlgorithmsDelight/blob/master/Topic/Hash_table.ipynb
+[17]:	https://mp.weixin.qq.com/s?__biz=MzA4ODM4ODQ3MQ==&mid=2651930954&idx=1&sn=e6adbf0de88acb6830ae48e123ce87e8&chksm=8bcf0752bcb88e44607c53541b3e95e1b9862b51c2955e1b332faef63f994d1be69b17b249af&mpshare=1&scene=1&srcid=0209jeNt5sJ3cMRFJYKENHBR#rd
+[18]:	http://mindhacks.cn/2009/02/09/writing-is-better-thinking/
 
 [image-1]:	https://cdn-images-1.medium.com/max/1600/0*tG-pbbXuaTea4iwO. "two A"
 [image-2]:	https://github.com/WillWang-X/WillWang-X.github.io/blob/master/_picture/datastructure.png?raw=true
 [image-3]:	https://github.com/WillWang-X/WillWang-X.github.io/blob/master/_picture/book.png?raw=true "books"
-[image-4]:	http://crowdicity.com/casestudyimages/information-knowledge.png "information - knowledge "
+[image-4]:	https://i.imgur.com/HQJURQD.png "information - knowledge "
 [image-5]:	https://github.com/WillWang-X/WillWang-X.github.io/blob/master/_picture/prosandcons.png?raw=true
-[image-6]:	https://github.com/WillWang-X/WillWang-X.github.io/blob/master/_picture/io.png?raw=true
+[image-6]:	https://i.imgur.com/1TfuRYe.png "方法论"
