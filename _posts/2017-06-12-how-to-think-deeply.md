@@ -216,7 +216,7 @@ Hash Table 用一句话说就是：**回眸一笑百媚生！**
 同理，知识深入过程，也是三个阶段：**理解入门，看山是山，第一印象，是为建构；理解进阶，看山不是山，模式识别，是为解构；理解深入，看山还是山，融会贯通，是为重构。**
 
 
-简之                                      
+简之           
 2017.06.20
 
 [1]:	https://medium.com/@michaeldsimmons/how-elon-musk-learns-faster-and-better-than-everyone-else-a010a4f586ef
