@@ -1,0 +1,12 @@
+markdown: kramdown
+permalink: /:year/:month/:title 
+title: 大象的房间
+url: https://willwang-x.github.io/
+subscribe: https://willwang-x.github.io/
+exclude: [ README.md, newpost.rb ]
+domain: 
+author: CNFeat
+email: lanluotiankong@gmail.com
+twitterID: 
+disqusShortname: 
+safe: true
