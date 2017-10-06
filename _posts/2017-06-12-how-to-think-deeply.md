@@ -106,7 +106,7 @@ published: true
 
 ## 3.1 第一层：不同作者的解读
 
-### 1) **《Charles: Introduction to Algorithms（第3版）》**
+### 1) **《Charles: Introduction to Algorithms, 3rd》**
 
 《算法导论》这本书是从「集合」切入Hash Table, 切入的逻辑是，就像现在数学的基础是集合论，集合也是计算机科学的基础。数学的集合是不变的，而算法所操作的集合却是随时间的改变而增大，缩小或者产生其他变化，称为dynamic set。所以问题来了：如何表示和操纵有穷动态集合？
 
@@ -120,7 +120,7 @@ published: true
 
 
 
-### 2) **《Robert Sedgewick：Algorithms(第4版)》**
+### 2) **《Robert Sedgewick：Algorithms, 4th》**
 
 《算法》这本书从「查找」切入Hash Table，切入的逻辑，在查找海量数据时，我们往往是像字典一样，先找到单词，然后再读出解释。而如字典般存储信息方式，我们称为符号表，每一条存储key(如单词)和value(如解释)。要在这样的海量信息寻找他们，一个问题自然就出来了：如何高效检索他们呢？
 
@@ -134,7 +134,7 @@ published: true
 
 	  
 
-### 3) **《Anany: Introduction to the design and analysis of algorithms（第3版）》**
+### 3) **《Anany: Introduction to the design and analysis of algorithms, 3rd》**
 
 《算法设计与分析基础》这本书是从「时空权衡」角度切入Hashing的，在这个章节介绍了两种技术：
 
