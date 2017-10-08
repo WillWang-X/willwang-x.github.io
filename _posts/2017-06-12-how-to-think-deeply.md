@@ -169,7 +169,7 @@ published: true
 > 获取反馈是学习和改进的前提。 —— 《精益创业》
 
 通大量的同类题练习，模式自然涌现，虽然有时只可意会，不能言传。
-见 Hash Table 练习笔记:  [https://github.com/WillWang-X/AlgorithmsDelight/blob/master/Topic/Hash\_table.ipynb][16]
+见 [Hash Table 练习笔记][16]。 
 
 小结：通过主题阅读，不同作者，不同语言，不同题目，让作者互相讨论，自己作旁观者清。当然，阅读过程并非一定是线形路径，更多是一种有限深度搜索之后，再调整深度继续的搜索。最好的方式是**产生问题，让好奇心牵引前行。**
 
