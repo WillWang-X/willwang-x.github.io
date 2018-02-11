@@ -1,7 +1,8 @@
 --- 
 layout: post
 title:  思路的诞生|正反思维：始末
-tags: 思路的诞生
+tags:
+- 思路的诞生
 status: publish
 type: post
 published: true
