@@ -1,6 +1,6 @@
 --- 
 layout: post
-title:  思路的诞生|正反思维：始末
+title:  思路的诞生之正反思维：始末
 tags:
 - 思路的诞生
 status: publish
@@ -8,7 +8,6 @@ type: post
 published: true
 ---
 	
-## 始末：
 	
 ### 一个理想的思路过程是：
 	
