@@ -64,10 +64,11 @@ Otherwise, return False.
 <script src="https://gist.github.com/WillWang-X/807067fb94a4f0ee03a5dd391b305d4b.js"></script>
 
 
-### 4. 想多玩一些？
+### 4. 想多玩一会？
 
 - [782. Transform to Chessboard
-](https://leetcode.com/problems/transform-to-chessboard/description/) : 如何从结局推开始，让复杂问题变成一个简单问题？
+](https://leetcode.com/problems/transform-to-chessboard/description/): 如何从结局推开始，让复杂问题变成一个简单问题？ 
+- [127. Word Ladder](https://leetcode.com/problems/word-ladder/description/): 双端BFS是如何发挥奇效的？
 
 
 
