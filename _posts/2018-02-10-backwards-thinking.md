@@ -51,9 +51,9 @@ Otherwise, return False.
 
 所以我们可以通过**“用大数减小数”**来达到父亲节点！ 
 	
-快要到达了终点了... 但还是超时！ 
-体会一下这个Edge case:（1，10**9） 
-	
+快要到达了终点了... 但还是超时了！ 
+体会一下这个 ***Edge case: (1, 1) ->（1，10^9)***
+
 那如何优化呢？ 
 
 **Aha！[GCD:Euclidean algorithm!](https://upload.wikimedia.org/wikipedia/commons/e/e2/Euclidean_algorithm_252_105_animation_flipped.gif)** ✌️	 
