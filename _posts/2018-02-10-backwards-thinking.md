@@ -8,7 +8,8 @@ type: post
 published: true
 ---
 	
-	
+> 凡事反过来想一想。 —— 不知名的观众	
+
 ### 一个理想的思路过程是：
 	
 1) 看到题目确定是一个**搜索**问题。
@@ -42,5 +43,12 @@ published: true
 	
 <script src="https://gist.github.com/WillWang-X/807067fb94a4f0ee03a5dd391b305d4b.js"></script>
 2018.2.10
+
+###  想多玩一些？
+
+- [782. Transform to Chessboard
+](https://leetcode.com/problems/transform-to-chessboard/description/) : 如何从结局推开始，让复杂问题变成一个简单问题？
+
+
 
 简之
