@@ -26,15 +26,13 @@ Otherwise, return False.
 4. 双端BFS？... 念口诀：**正的不行，反的行。**
 	
 	
-<center>
 
-**Aha! 什么是树呢？**	 <br>
+**Aha! 什么是树呢？**	
+**众人疑惑脸。🤔**(有何用意？) <
 
-**众人疑惑脸。🤔** <br>
+树的性质：**每一个非根节点有且只有一个父节点啊** 
 
-树的性质：**每一个非根节点有且只有一个父节点** 
 
-</center>
 
 	
 
@@ -44,14 +42,15 @@ Otherwise, return False.
 	
 ![Reaching Points](https://i.imgur.com/FsKaX4b.png)
 	
-<center>	
+	
+		
 
-所以我们可以通过**“用大数减小数”**来达到父亲节点！ <br>
+所以我们可以通过**“用大数减小数”**来达到父亲节点！ 
 	
-快要到达了终点了... 但还是超时！ <br>
-体会一下这个Edge case:（1，10**9） <br>
+快要到达了终点了... 但还是超时！ 
+体会一下这个Edge case:（1，10**9） 
 	
-那如何优化呢？ <br>
+那如何优化呢？ 
 
 **Aha！GCD:Euclidean algorithm!**	 
 
