@@ -29,11 +29,11 @@ Otherwise, return False.
 .
 .	
 
-<center> <b> **Aha! 什么是树呢？** </b> </center>
+<center> <b> Aha! 什么是树呢？ </b> </center>
 
-<center> <b>**众人疑惑脸。🤔 </b>	</center>
+<center> <b>众人疑惑脸。🤔 </b>	</center>\
 
-<center> 树的性质：<b>**每一个非根节点有且只有一个父节点啊**</b>  </center>
+<center> 树的性质：<b> 每一个非根节点有且只有一个父节点啊</b>  </center>
 
 
 	
