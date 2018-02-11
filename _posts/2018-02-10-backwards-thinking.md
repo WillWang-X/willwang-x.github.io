@@ -25,9 +25,6 @@ Otherwise, return False.
 3. 尝试完好写的BFS：超时！尝试完更好写的DFS: 超时！无计可施？
 4. 双端BFS？... 念口诀：**正的不行，反的行。**
 	
-.
-.
-.	
 
 <center> <b> Aha! 什么是树呢？ </b> </center>
 
