@@ -5,7 +5,7 @@
 ## 说明
 
 xxxxxx
-备份：http://tinyletter.com/xxxx
+如果你对卡片创作感兴趣，欢迎订阅：http://tinyletter.com/xxxx
 
 ## 访问
 
