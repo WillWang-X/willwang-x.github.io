@@ -8,6 +8,9 @@ type: post
 published: true
 ---
 	
+	
+
+
 > 凡事反过来想一想。 —— 不知名的观众	
 
 
@@ -26,9 +29,11 @@ Otherwise, return False.
 4. 双端BFS？... 念口诀：**正的不行，反的行。**
 	
 
+<br>
+
 <center> <b> Aha! 什么是树呢？ </b> </center>
 
-<center> <b>众人疑惑脸。🤔 </b>	</center>\
+<center> <b>众人疑惑脸。🤔 </b>	</center>
 
 <center> 树的性质：<b> 每一个非根节点有且只有一个父节点啊</b>  </center>
 
