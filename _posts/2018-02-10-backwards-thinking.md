@@ -25,7 +25,7 @@ Otherwise, return False.
 	
 1. 看到题目确定是一个**搜索**问题。
 2. 然后搜索问题的解法，想到有三种： **DFS，BFS，双端BFS**。
-3. 尝试完好写的BFS：超时！尝试完更好写的DFS: 超时！无计可施？
+3. 尝试完好写的BFS：超时！尝试完更好写的DFS: 超时！无计可施？🙄
 4. 双端BFS？... 念口诀：**正的不行，反的行。**
 	
 
@@ -56,7 +56,7 @@ Otherwise, return False.
 	
 那如何优化呢？ 
 
-**Aha！GCD:Euclidean algorithm!**	 
+**Aha！[GCD:Euclidean algorithm!](https://upload.wikimedia.org/wikipedia/commons/e/e2/Euclidean_algorithm_252_105_animation_flipped.gif)** ✌️	 
 
 ### 3. Show me the code
 	
