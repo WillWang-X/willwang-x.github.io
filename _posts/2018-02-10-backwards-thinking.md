@@ -11,20 +11,18 @@ published: true
 > 凡事反过来想一想。 —— 不知名的观众	
 
 
-### 问题是这样的：
+### 1. 问题是这样的：
 
 A move consists of taking a point (x, y) and transforming it to either (x, x+y) or (x+y, y).
 Given a starting point (sx, sy) and a target point (tx, ty), return True if and 
 only if a sequence of moves exists to transform the point (sx, sy) to (tx, ty). 
 Otherwise, return False.
 
-### 一个理想的思路过程是：
+### 2. 一个理想的思路过程是：
 	
 1. 看到题目确定是一个**搜索**问题。
-	
 2. 然后搜索问题的解法，想到有三种方法： **DFS，BFS，双端BFS**。
 3. 尝试完好写的BFS：超时！尝试完更好写的DFS: 超时！无计可施？
-	
 4. 双端BFS？... 念口诀：**正的不行，反的行。**
 	
 **Aha! 什么是树呢？**
@@ -46,12 +44,12 @@ Otherwise, return False.
 
 **Aha！GCD:Euclidean algorithm！
 **	
-### Show me the code
+### 3. Show me the code
 	
 <script src="https://gist.github.com/WillWang-X/807067fb94a4f0ee03a5dd391b305d4b.js"></script>
 2018.2.10
 
-###  想多玩一些？
+### 4. 想多玩一些？
 
 - [782. Transform to Chessboard
 ](https://leetcode.com/problems/transform-to-chessboard/description/) : 如何从结局推开始，让复杂问题变成一个简单问题？
