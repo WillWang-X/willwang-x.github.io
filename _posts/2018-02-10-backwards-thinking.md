@@ -24,7 +24,7 @@ published: true
 	
 众人疑惑脸。🤔
 	
-树的性质：** 每一个非根节点有且只有一个父节点！** 
+树的性质：**每一个非根节点有且只有一个父节点！** 
 	
 来，看图:
 	
@@ -32,10 +32,13 @@ published: true
 	
 所以我们可以通过“用大数减小数”来达到父亲节点！
 	
-快要到达了终点了: 还是超时！比如：（1，10**9）。
+快要到达了终点了... 但还是超时！
+体会一下这个Edge case:（1，10**9）
 	
-如何优化呢？Aha！GCD:Euclidean algorithm！
-	
+那如何优化呢？
+
+**Aha！GCD:Euclidean algorithm！
+**	
 ### Show me the code
 	
 <script src="https://gist.github.com/WillWang-X/807067fb94a4f0ee03a5dd391b305d4b.js"></script>
