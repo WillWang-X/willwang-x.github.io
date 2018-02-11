@@ -68,7 +68,8 @@ Otherwise, return False.
 
 - [782. Transform to Chessboard
 ](https://leetcode.com/problems/transform-to-chessboard/description/): 如何从结局推开始，让复杂问题变成一个简单问题？ 
-- [127. Word Ladder](https://leetcode.com/problems/word-ladder/description/): 双端BFS是如何发挥奇效的？
+- [127. Word Ladder](https://leetcode.com/problems/word-ladder/description/): 反过来想想，双端BFS是如何发挥奇效的？
+- [BFS还是DFS呢？选择困难如何治?](DropboxOA典型, DFS省空间，BFS好Check): Wait... 让我想一想再补充
 
 
 
