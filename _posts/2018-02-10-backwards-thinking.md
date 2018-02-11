@@ -25,12 +25,15 @@ Otherwise, return False.
 3. 尝试完好写的BFS：超时！尝试完更好写的DFS: 超时！无计可施？
 4. 双端BFS？... 念口诀：**正的不行，反的行。**
 	
+	
 <center>
+
 **Aha! 什么是树呢？**	
 
 **众人疑惑脸。🤔**
 
 树的性质：**每一个非根节点有且只有一个父节点**
+
 </center>
 
 	
@@ -42,6 +45,7 @@ Otherwise, return False.
 ![Reaching Points](https://i.imgur.com/FsKaX4b.png)
 	
 <center>	
+
 所以我们可以通过**“用大数减小数”**来达到父亲节点！
 	
 快要到达了终点了... 但还是超时！
@@ -49,14 +53,13 @@ Otherwise, return False.
 	
 那如何优化呢？
 
-**Aha！GCD:Euclidean algorithm！
-**	
+**Aha！GCD:Euclidean algorithm!**	
 
 </center>
 ### 3. Show me the code
 	
 <script src="https://gist.github.com/WillWang-X/807067fb94a4f0ee03a5dd391b305d4b.js"></script>
-2018.2.10
+
 
 ### 4. 想多玩一些？
 
@@ -65,4 +68,6 @@ Otherwise, return False.
 
 
 
+
+2018.2.11
 简之
