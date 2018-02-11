@@ -28,11 +28,11 @@ Otherwise, return False.
 	
 <center>
 
-**Aha! 什么是树呢？**	
+**Aha! 什么是树呢？**	 <br>
 
-**众人疑惑脸。🤔**
+**众人疑惑脸。🤔** <br>
 
-树的性质：**每一个非根节点有且只有一个父节点**
+树的性质：**每一个非根节点有且只有一个父节点** 
 
 </center>
 
@@ -46,14 +46,14 @@ Otherwise, return False.
 	
 <center>	
 
-所以我们可以通过**“用大数减小数”**来达到父亲节点！
+所以我们可以通过**“用大数减小数”**来达到父亲节点！ <br>
 	
-快要到达了终点了... 但还是超时！
-体会一下这个Edge case:（1，10**9）
+快要到达了终点了... 但还是超时！ <br>
+体会一下这个Edge case:（1，10**9） <br>
 	
-那如何优化呢？
+那如何优化呢？ <br>
 
-**Aha！GCD:Euclidean algorithm!**	
+**Aha！GCD:Euclidean algorithm!**	 
 
 </center>
 ### 3. Show me the code
@@ -70,6 +70,5 @@ Otherwise, return False.
 
 
 
-
-简之
-2018.2.11
+简之           
+2018.02.11
