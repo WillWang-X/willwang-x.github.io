@@ -10,7 +10,6 @@ published: true
 
 <br>
 
-> 如何重新发明核函数？
 问题始于，我从在魔鬼那里学会了: [Kernel Trick](https://www.zhihu.com/question/21094489/answer/86273196)
 
 ## 1.数据升维
