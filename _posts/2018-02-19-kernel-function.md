@@ -60,6 +60,8 @@ published: true
 不，不是这个。是下面这个。
 	
 ![kernel function example](https://i.imgur.com/woKyG9B.png)
+
+（有没有发现，其实这个就是初中数学的函数化简！）
 	
 两个数据升维Dot Product的过程了，可以用一个函数就刻画出来了。
 
