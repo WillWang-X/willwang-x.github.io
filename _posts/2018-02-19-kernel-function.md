@@ -16,7 +16,7 @@ published: true
 	
 那如何实现呢？更精确地说：如何使数据升维呢？
 	
-从SVM我们知道了那个用来分类函数：
+从SVM我们知道了那个用来分类的函数：
 	
 ![hyper plane](https://i.imgur.com/ldvJFT8.png)
 	
