@@ -69,7 +69,7 @@ published: true
 	
 ## 3. 想多玩一会？
 	
-- 两本书可以读一读: [《Learning with Kernels》](https://book.douban.com/subject/1763633/), [《Kernel Methods for Pattern Analysis》](https://book.douban.com/subject/1789537/)
+- 有兴趣的话两本书可以读一读: [《Learning with Kernels》](https://book.douban.com/subject/1763633/), [《Kernel Methods for Pattern Analysis》](https://book.douban.com/subject/1789537/)
 - 那如何找到这个Kernel Function呢？呃，这个有点复杂。
 	
 ## 4. 感谢
