@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: 恐惧: 擦鞋匠，老奶奶和小女儿
+title: 擦鞋匠，老奶奶和小女儿
 tags:
 - 常识系列
 status: publish
