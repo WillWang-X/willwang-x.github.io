@@ -16,21 +16,18 @@ published: true
 	
 ### 1. 问题是这样子：
 	
-Given a string S and a string T, find **the minimum window** in S which will contain all the characters in T in complexity O(n).
+Given a string S and a string T, find **the minimum window** in S which will contain all the characters in T in complexity O(n). For example,
 	
-For example,
+- S = "ADOBECODEBANC"
+- T = "ABC"
 	
-S = "ADOBECODEBANC"
-	
-T = "ABC"
-	
-Minimum window is "BANC".
+Minimum window is "**BANC**".
 	
 —— 《76. Minimum Window Substring》
 	
 ### 2. 一个理想的思路是：
 	
-1. 求一个范围立马想到双指针：一个指头，一个指尾。
+1. 求一个范围立马想到双指针：**一个指头，一个指尾。**
 2. 先找满足条件的一个解，然后在走的过程，不断用限制条件看看能不能得到更好的解。
 
 
