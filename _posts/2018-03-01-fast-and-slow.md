@@ -10,6 +10,8 @@ published: true
 
 <br>
 
+![追逐](https://i.imgur.com/pWFuBCj.png)
+
 > You cannot pursue all your goals simultaneously or satisfy all your desires at once. ——— 《No, You Can’t Have It All》 	
 	
 ### 1. 问题是这样子：
@@ -30,6 +32,8 @@ Minimum window is "BANC".
 	
 1. 求一个范围立马想到双指针：一个指头，一个指尾。
 2. 先找满足条件的一个解，然后在走的过程，不断用限制条件看看能不能得到更好的解。
+
+
 <br>
 <center>😇</center>
 	
@@ -41,7 +45,6 @@ Minimum window is "BANC".
 <center> <b> (maintain a job while looking for a better one)
   </b> </center>
 
-![追逐](https://i.imgur.com/pWFuBCj.png)
 		
 	
 ### 3. Show me the code 
