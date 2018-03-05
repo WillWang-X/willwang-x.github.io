@@ -38,7 +38,7 @@ Explanation: There are three subarrays that meet the requirements: [2], [2, 1], 
 ### 2.一个理想的思路是这样子的：
 
 1. 看到关键词subarray想到得到在一个list中划定范围，叮！Sliding window，一首一尾。
-2. 定睛再看，并没有要极值，而是要求个数，Sliding window限制条件就不太好用。
+2. 定睛再看，并没有要极值，而是要求所有个数，Sliding window限制条件就不太好用了。
 3. 那就要找到一个数的方式：能穷尽而不会遗漏。
 	- 左对齐：以某个数为开始的最长子串。
 	- 右对齐：以某个数为结尾的最长子串。
