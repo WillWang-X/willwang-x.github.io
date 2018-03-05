@@ -28,7 +28,7 @@ Output: 3
 Explanation: There are three subarrays that meet the requirements: [2], [2, 1], [3].
 ```
 
-** Note: ** 
+**Note:** 
 
 *  L, R  and A[i] will be an integer in the range [0, 10^9].
 *  The length of A will be in the range of [1, 50000].
@@ -43,8 +43,8 @@ Explanation: There are three subarrays that meet the requirements: [2], [2, 1], 
 	- 左对齐：以某个数为开始的最长子串。
 	- 右对齐：以某个数为结尾的最长子串。
 4. 然后求这个子串能构成的有效个数。
-	- 以首去数，要注意，小小中不行。
-	- 以尾去数，要注意，要记录之前遇到的“小”的个数。
+	- 以首去数，要注意，**`小小中`**不行。
+	- 以尾去数，要注意，要记录之前遇到的**“小”**的个数。
 
 真正去实现的时候，你会发现右对齐去数数会比左对齐更快。
 	
