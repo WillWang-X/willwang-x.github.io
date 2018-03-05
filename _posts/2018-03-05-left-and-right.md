@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: 思路的诞生之正反思维：左右
+title:  思路的诞生之正反思维：左右
 tags:
 - 思路的诞生
 status: publish
