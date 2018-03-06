@@ -40,7 +40,7 @@ Java继承是自上而下，一层一层的叠加，而JavaScript是自下而上
 	
 ## 4. Show me the code 
 	
-下面对比一下Java和JavaScript在继承时如何做的。
+下面对比一下Java和JavaScript在继承时是如何做的，以及如何Override的。
 
 <script src="https://gist.github.com/WillWang-X/91af8fc596e450afd006045671d07676.js"></script>
 	
