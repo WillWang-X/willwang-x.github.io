@@ -39,8 +39,7 @@ Explanation: There are three words in words that are a subsequence of S: "a", "a
 
 2.问题来了：如何降低时间复杂度呢？💡—— 预处理: 习惯性遍历一次Words，在S中查找，所以对S进行预处理
 
-3.根据我们子串匹配判断，我们需求是，如word “acd”, 在S(adcacd)中，在匹配c后，我们想要知道S中c后面没有d, 所以可以结构化S，知道每一个字母的index。
-	- {"a":[0，3],"c":[2,4],"d":[1,5]}
+3.根据我们子串匹配判断，我们需求是，如word “acd”, 在S(adcacd)中，在匹配c后，我们想要知道S中c后面没有d, 所以可以结构化S，知道每一个字母的index。 像这样： {"a":[0，3],"c":[2,4],"d":[1,5]}
 
 ![预处理](https://i.imgur.com/4OOJre9.gif)
 
@@ -54,7 +53,7 @@ Explanation: There are three words in words that are a subsequence of S: "a", "a
 
 
 
-**升华一下😇**
+**升华一下：😇**
 
 时空权衡，在**字符串**里，是**输入结构化**; 在**数据结构**上，**偏好散列法**; 在**设计思想**上，是**动态规划**; 在**工作**上，即**「台上一分钟，台下十年功」**; 所谓**准备的艺术**。
 
