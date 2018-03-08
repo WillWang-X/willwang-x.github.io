@@ -42,6 +42,7 @@ Explanation: There are three words in words that are a subsequence of S: "a", "a
 
 3. 根据我们子串匹配判断，我们需求是，如word “acd”, 在S(adcacd)中，在匹配c后，我们想要知道S中c后面没有d, 所以可以结构化S，知道每一个字母的index。
 	- {"a":[0，3],"c":[2,4],"d":[1,5]}
+
 ![预处理](https://i.imgur.com/4OOJre9.gif)
 
 4. 嗯，不错，这样我们得到，a:0, c:2, 下一个匹配只要找到d中有没有 >2 的Index了，如果有就返回True. 问题是S如果很长，“d”中的Index很多怎么办？有序数列😀 —— 二分查找！
