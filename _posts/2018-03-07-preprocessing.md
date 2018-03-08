@@ -54,6 +54,16 @@ Explanation: There are three words in words that are a subsequence of S: "a", "a
 
 ![深度](https://i.imgur.com/NZadrTV.gif)
 
+**小结一下：**
+
+我们看到有三种预处理方法(时间和空间复杂度)：
+
+1. 预处理S, 以遍历words为主，在S中查找: `O(len(S) + len(words)*w*log(S/26))` & `O(len(S)) `
+2. 深度预处理S, 以遍历words为主，在S中查找: `O(len(S) + len(words)*w)` & `O(26len(S))`
+3. 预处理words，以遍历S为主，在words查找: `O(len(words) + len(S) + w*len(words))` & `O(len(words)*w)`
+
+注: where w is average length of words
+
 
 
 **升华一下：😇**
