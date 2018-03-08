@@ -64,11 +64,9 @@ Explanation: There are three words in words that are a subsequence of S: "a", "a
 
 注: where w is average length of words
 
-
-
 **升华一下：😇**
 
-时空权衡，在**字符串**里，是**输入结构化**; 在**数据结构**上，**偏好散列法**; 在**设计思想**上，是**动态规划**; 在**工作**上，即**「台上一分钟，台下十年功」**; 所谓**准备的艺术**。
+时空权衡，在**字符串**里，是**输入结构化**; 在**数据结构**上，**偏好散列法**; 在**设计思想**上，有**动态规划**; 在**工作**上，即**「台上一分钟，台下十年功」**; 所谓**准备的艺术**。
 
 ### 3. Show me the code:
 <script src="https://gist.github.com/WillWang-X/93abbc71bd3fa09ea8425531044fff9b.js"></script>
