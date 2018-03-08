@@ -46,8 +46,7 @@ Explanation: There are three words in words that are a subsequence of S: "a", "a
 
 4.嗯，不错，这样我们得到，a:0, c:2, 下一个匹配只要找到d中有没有 >2 的Index了，如果有就返回True. 问题是S如果很长，“d”中的Index很多怎么办？**有序数列😀 —— 二分查找！**
 
-5.其实，如果我们知道S中每一个字母，指向后面最近的26字母位置，那我们就可以O(1)完成定位了，匹配一个words时间从原来的   
- `O(len(word)*log(len(S)/26)) ` 变成了`O(len(word))`，虽然用了原来的26倍空间，但是获得了更快的时间，棒！
+5.其实，如果我们知道S中每一个字母，指向后面最近的26字母位置，那我们就可以O(1)完成定位了，匹配一个words时间从原来的`O(len(word)*log(len(S)/26)) ` 变成了`O(len(word))`，虽然用了原来的26倍空间，但是获得了更快的时间，棒！
 
 ![深度预处理](https://i.imgur.com/ca4iDze.gif)
 
