@@ -73,6 +73,7 @@ Explanation: There are three words in words that are a subsequence of S: "a", "a
 ### 4. 想多玩一会？
 - [322. Coin Change](https://leetcode.com/problems/coin-change/description/) : 两层For循环，调换位置，看看有什么不一样。
 - 时空权衡常见用途：计数法排序，字符串匹配，散列法，B树。
+- 当我们在Google，输入关键词，得到文档列表时，Google引擎在做些什么呢？是在搜索所有文档，搜索这个关键词么？还是... 提醒：Inverted Index 
 
 ### 5. 感谢
 - Master Zhao 
