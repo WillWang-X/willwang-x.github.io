@@ -1,6 +1,6 @@
 --- 
 layout: post
-title:  什么是泛化？你猜啊
+title:  什么是泛化？猜！
 tags:
 - 机器学习
 status: publish
