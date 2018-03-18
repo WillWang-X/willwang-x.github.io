@@ -77,7 +77,12 @@ published: true
 	
 **数据的多少，决定了你模型泛化能力的上限。**	
 
-### 4. 感谢
+### 4. 想多玩一会？
+1. 当模型泛化能不行时，还有哪些原因？各自的特征是什么，如何解决？
+2. 如何确定自己不是因为数据不够而模型性能不好？
+3. 小数据样本有没有可能训练出泛化能力强的模型？如果可以，在什么情况下？
+
+### 5. 感谢
 	
 1. [Statistical and causal approaches to machine learning](https://www.youtube.com/watch?time_continue=29&v=ek9jwRA2Jio)
 1. [The on-line encyclopedia of integer sequences](https://oeis.org/)
