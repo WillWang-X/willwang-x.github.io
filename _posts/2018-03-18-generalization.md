@@ -2,7 +2,7 @@
 layout: post
 title:  什么是泛化？你猜啊
 tags:
-- 思路的诞生
+- 机器学习
 status: publish
 type: post
 published: true
@@ -17,6 +17,8 @@ published: true
 ```
 给了一组数据: 1,2,4,7...	
 下一个数是什么呢？
+
+
 —— 某初二考试题
 ```
 	
@@ -61,11 +63,11 @@ published: true
 	
 这时候他们想要干什么呢？可能要更多的数据。
 	
-这多数据够么？
+下面这多数够么？
 	
 1, 2, 4, 7, 11, 16, 22, 29, 37, 46, 56, 67, 79, 92, 106, 121, 137, 154, 172...
 	
-发现下一个在[The on-line encyclopedia of integer sequences](https://oeis.org/search?q=1%2C+2%2C+4%2C+7%2C+11%2C+16%2C+22%2C+29%2C+37%2C+46%2C+56%2C+67%2C+79%2C+92%2C+106%2C+121%2C+137%2C+154%2C+172&sort=&language=&go=Search) 数据还是有4种规律，下一个可以两种数字是：191或190
+发现下一个在[The on-line encyclopedia of integer sequences](https://oeis.org/search?q=1%2C+2%2C+4%2C+7%2C+11%2C+16%2C+22%2C+29%2C+37%2C+46%2C+56%2C+67%2C+79%2C+92%2C+106%2C+121%2C+137%2C+154%2C+172&sort=&language=&go=Search) 数据还是有4种规律，下一个可以是：191或190
 	
 至少我们发现给定数据越多，我们可以发现更精确的「模型」，那我们看一个**数据多少模型性能**的栗子：
 	
