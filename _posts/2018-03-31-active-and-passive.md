@@ -63,7 +63,8 @@ rows = 20000, cols = 20000, sentence = ["a", "b", "c"]
 	
 ### 4.想多玩一会
 	
-1. 这道题有没有可以改进的地方？提示：KMP(预处理), [时空权衡之预处理](https://willwang-x.github.io/2018/03/preprocessing), [Discussion的优雅解法](https://leetcode.com/problems/sentence-screen-fitting/discuss/90845/21ms-18-lines-Java-solution/95290)
+1. 这道题做法有没有可以改进的地方？提示：KMP(预处理), [时空权衡之预处理](https://willwang-x.github.io/2018/03/preprocessing), [Discussion的优雅解法](https://leetcode.com/problems/sentence-screen-fitting/discuss/90845/21ms-18-lines-Java-solution/95290)
+2. 想一想[55. Jump Game](https://leetcode.com/problems/jump-game/description/) 有没有其他思路？可参考[DP solution](https://leetcode.com/problems/sentence-screen-fitting/discuss/90874/12ms-Java-solution-using-DP)
 2. [322. Coin Change](https://leetcode.com/problems/coin-change/description/) : 改变循环中不同的操作先后顺序看看有什么不一样的惊喜？
 	
 ### 5. 感谢
