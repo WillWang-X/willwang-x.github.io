@@ -16,8 +16,7 @@ published: true
 	
 Given a rows x cols screen and a sentence represented by a list of non-empty words, find how many times the given sentence can be fitted on the screen.
 	
-Note:
-	
+**Note:**	
 - A word cannot be split into two lines.
 - The order of words in the sentence must remain unchanged.
 - Two consecutive words in a line must be separated by a single space.
@@ -25,8 +24,7 @@ Note:
 - Length of each word is greater than 0 and won't exceed 10.
 - 1 ≤ rows, cols ≤ 20,000.
 	
-Example 1:
-	
+**Example 1:**	
 ```
 Input:
 rows = 5, cols = 4, sentence = ["ab", "cde", "f"]
