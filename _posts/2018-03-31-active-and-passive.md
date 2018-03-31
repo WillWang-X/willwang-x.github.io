@@ -63,8 +63,7 @@ rows = 20000, cols = 20000, sentence = ["a", "b", "c"]
 	
 ### 4.想多玩一会
 	
-1. 这道题有没有可以改进的地方？提示：KMP(预处理) 参考之前的文章[时空权衡之预处理](https://willwang-x.github.io/2018/03/preprocessing) 还有[Discussion的优雅解法](https://leetcode.com/problems/sentence-screen-fitting/discuss/90845/21ms-18-lines-Java-solution/95290)
-	
+1. 这道题有没有可以改进的地方？提示：KMP(预处理), [时空权衡之预处理](https://willwang-x.github.io/2018/03/preprocessing), [Discussion的优雅解法](https://leetcode.com/problems/sentence-screen-fitting/discuss/90845/21ms-18-lines-Java-solution/95290)
 2. [322. Coin Change](https://leetcode.com/problems/coin-change/description/) : 改变循环中不同的操作先后顺序看看有什么不一样的惊喜？
 	
 ### 5. 感谢
