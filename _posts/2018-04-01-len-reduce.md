@@ -14,7 +14,7 @@ published: true
 
 # 1
 
-在用Python的过程，有两个问题困扰：
+在用Python的过程，有两个小问题困扰过我：
 
 一个是用的顺手，想问问设计的人："Why Python has a len() function instead of a .length or .size property or method on the object?" 
 
