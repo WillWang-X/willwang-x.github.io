@@ -1,6 +1,6 @@
 --- 
 layout: post
-title:  工程的效率：len()的诞生和reduce()的死亡
+title:  关于效率：len()的诞生和reduce()的死亡
 tags:
 - 随笔
 status: publish
