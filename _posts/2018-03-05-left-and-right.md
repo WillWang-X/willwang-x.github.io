@@ -1,6 +1,6 @@
 --- 
 layout: post
-title:  思路的诞生系列|左右之分
+title:  左右之分
 tags:
 - 思路的诞生
 status: publish
