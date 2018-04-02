@@ -1,6 +1,6 @@
 --- 
 layout: post
-title:  思路的诞生之正反思维：左右
+title:  思路的诞生系列|左右之分
 tags:
 - 思路的诞生
 status: publish
@@ -59,6 +59,7 @@ Explanation: There are three subarrays that meet the requirements: [2], [2, 1], 
 
 1. 如果「减治」的思想去做这道题，你会有什么想法呢？
 2. [456. 132 Pattern](https://leetcode.com/problems/132-pattern/)：对这道题的你会什么新的启发呢？
+3. [413. Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/description/):在list中让你数个数，为了避免重复数，都可以左对齐，或者右对齐去数。
 
 ### 5. 感谢
 
