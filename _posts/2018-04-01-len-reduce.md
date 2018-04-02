@@ -2,7 +2,7 @@
 layout: post
 title:  工程的效率|len()的诞生和reduce()的死亡
 tags:
-- 思想
+- 随笔
 status: publish
 type: post
 published: true
