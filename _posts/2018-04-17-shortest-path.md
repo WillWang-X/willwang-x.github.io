@@ -14,11 +14,11 @@ published: true
 
 ## 1. 总结
 	
-|算法|思想|适用情况|时间复杂度|空间复杂度|典型应用|诞生时间|
+|算法|思想|适用情况|时间复杂度|空间复杂度|诞生时间|
 | ---|:---:|----:|:---:|----:|:---:|----:|
-|BFS|蛮力搜索|不含权重|O(V·E)|O(V·E)|x(见BFS总结)|1959 by Edward F. Moore|
-|Dijkstra|贪心思想|不含负权|O((V+E)logV)|O(E)|稠密图？|1956 by Edsger W. Dijkstra|
-|Bellman-Ford|动态规划|没有限制|O(V·E)|O(E)|稀疏图？|1956 by Bellman,1957 by Moore,1958 by Ford|
+|BFS|蛮力搜索|不含权重|O(V·E)|O(V·E)|1959 by Edward F. Moore|
+|Dijkstra|贪心思想|不含负权|O((V+E)logV)|O(E)|1956 by Edsger W. Dijkstra|
+|Bellman-Ford|动态规划|没有限制|O(V·E)|O(E)|1956 by Bellman,1957 by Moore,1958 by Ford|
 
 可以看到，解决问题的范围 Bellman-ford > Dijkstra > BFS。
 
