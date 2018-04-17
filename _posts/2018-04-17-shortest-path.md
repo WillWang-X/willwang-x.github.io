@@ -96,7 +96,7 @@ The cheapest price from city 0 to city 2 with at most 1 stop costs 200, as marke
 
 为什么BFS不合适呢？ 
 
-因为BFS是Dijkstra的退化，边的权重限制了BFS在往下一层扩展时，并不代表选择最优点在更新。
+因为BFS是Dijkstra的退化，边的权重限制了BFS在往下一层扩展时，会产生错乱。
 	
 来看里一个例子：
 	
@@ -112,6 +112,7 @@ The cheapest price from city 0 to city 2 with at most 1 stop costs 200, as marke
 	- 想想拓扑排序可以用在求最短路径中么？(适用于无环)
 	- 那什么时候需要用到多源最短路径呢？如Floyd-Warshall算法
 	- 知道 SPFA 和 ASP 么？
+	- 检查负环的方法有哪些呢？
 
 ## 4.感谢
 	
