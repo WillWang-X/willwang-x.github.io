@@ -12,7 +12,7 @@ published: true
 
 
 
-## 1.总结
+## 1. 总结
 	
 |算法|思想|适用情况|时间复杂度|空间复杂度|典型应用|诞生时间|
 | ---|:---:|----:|:---:|----:|:---:|----:|
@@ -36,7 +36,7 @@ Dijkstra与Bellman-ford也正好说明了`贪心思想`和`动态规划`的区�
 	
 再看看BFS，最简单却很实用的方法，可以说是`Dijkstra`的简化版，因为如果每一条权值相同，即无权图，那么从源(Source)开始访问图(Graph)遇到节点的最小深度就等于到该节点的最短路径，因此Priority Queue就退化成了Queue, `Dijkstra`算法就退化成了BFS。
 	
-## 2.练习一下
+## 2. 练习一下
 	
 ### 2.1 问题是这样子的：
 	
@@ -66,31 +66,32 @@ The cheapest price from city 0 to city 2 with at most 1 stop costs 200, as marke
 - k is in the range of [0, n - 1].
 - There will not be any duplicated flights or self cycles.
 	
+	
 —— [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops/description/)  
 	
 ### 2.2 一个理想思路是：
 	
-1. 识别出问题是属于求**最短路径**系列。
-2. 冒出经典解法一二三：
+1. 识别出问题是属于求**单源最短路径**系列，算法有三：
 	- BFS 
 	- Dijkstra 
 	- Bellman-Ford 
-3. 具体问题具体分析：
+2. 具体问题具体分析：
 	- **有权重**: BFS不适合
 	- **没有负边**: Dijkstra可以用，因为每次都最小边走，所以在停K之前，遇到目标节点dst，即得到答案。
 	- **最多停K次**: 这个很符合Bellman-Ford的思想出发点：含有`∣V∣`个顶点的图两个点之间的最短路径最多含有`∣V∣−1`条边；所以这里迭代K次即可，然后到目标节点的值即答案。
 	
 ### 2.3 Show me the code 
 	
-##### Bellman-ford algorithm 
-	
+**Bellman-ford algorithm**	
+
 <script src="https://gist.github.com/WillWang-X/4efb3251c02c1d39775cf7eed580b154.js"></script>
 
-##### Dijkstra's algorithm 
+**Dijkstra's algorithm**
 	
 <script src="https://gist.github.com/WillWang-X/8ae3bd3a85bd07e0b406af133d78bc00.js"></script>
 
-##### BFS
+**BFS**
+
 为什么BFS不合适呢？ 
 
 因为BFS是Dijkstra的退化，边的权重限制了BFS在往下一层扩展时，并不代表选择最优点在更新。
