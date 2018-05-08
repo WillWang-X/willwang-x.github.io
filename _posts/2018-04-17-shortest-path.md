@@ -16,13 +16,13 @@ published: true
 	
 |算法|思想|适用情况|时间复杂度|空间复杂度|诞生时间|
 | ---|:---:|----:|:---:|----:|:---:|----:|
-|BFS|蛮力搜索|不含权重|O(V·E)|O(V·E)|1959 by Moore|
-|Dijkstra|贪心思想|不含负权|O((V+E)logV)|O(E)|1956 by Dijkstra|
-|Bellman-Ford|动态规划|没有限制|O(V·E)|O(E)|1956 by Bellman,1957 by Moore,1958 by Ford|
+|BFS|蛮力搜索|不含权重|O(V·E)|O(V·E)|1959|
+|Dijkstra|贪心思想|不含负权|O((V+E)logV)|O(E)|1956|
+|Bellman-Ford|动态规划|没有限制|O(V·E)|O(E)|1956|
 
 <br>
 
-可以看到，解决问题的范围 Bellman-ford > Dijkstra > BFS。
+可以看到，解决问题的范围 Bellman-ford > Dijkstra > BFS(Moore)。
 
 在现实世界中，求最短距离直觉上想到一个方法是`Dijkstra`，**因为「最短」本身就暗示着「贪心」的思路，要先走最短到达下一个点的边。**但是「贪心」思路的重点，在于对于问题已有洞见，所以证明其正确性往往最难说清。但证明错误，一个反例即可：
 	
