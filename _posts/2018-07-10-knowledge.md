@@ -7,9 +7,10 @@ status: publish
 type: post
 published: true
 ---
+
 ![](https://i.imgur.com/vHmv1OE.png)
 
-##<center>1</center>
+## <center>1</center>
 	
 最近电脑变慢，就想顺便整理自己的资料，想着一劳永逸。本文给了一个整理思路，没有深入细节。
 	
