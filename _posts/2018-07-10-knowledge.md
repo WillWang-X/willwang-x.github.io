@@ -114,7 +114,7 @@ published: true
 
 搜索库分别是：Workflowy, Zotero, Calibre, Evernote 
 
-他们可以**封装在一个入口**：Spotlight Search. 如何需要深入搜索，然后再分别在各个入口搜索。
+他们可以**封装在一个入口**：Spotlight Search. 如果需要深入搜索，然后再分别在各个入口搜索。
 	
 ## <center>5</center>
 
