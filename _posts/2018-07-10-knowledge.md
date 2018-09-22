@@ -81,6 +81,7 @@ published: true
 		* Reeder: 订阅信息
 		* Evernote: 存储到私有空间, 如大脑硬盘，便于日后检索。
 		
+		
 		信息流动方向，浏览网站看到感兴趣内容，中文放到Pocket, 英文放到Instapaper, 觉得网站以后可能丢失就直接存储到Evernote。好的网站直接订阅到Reeder。Pocket/Instapaper看完之后在存储到Evernote。保证看过的文章，之后都能搜索到。
 		
 		信息**流入**的终点就是“Evernote”(**硬盘**), 而这是输出的一个起点，因为便于“All in one”的搜索，然后在“workflowy”(**闪存**)整合。
