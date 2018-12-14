@@ -5,7 +5,7 @@ tags:
 - 随笔
 status: publish
 type: post
-published: false
+published: true
 ---
 
 # 1
