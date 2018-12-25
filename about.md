@@ -15,5 +15,5 @@ permalink: /about/
 
 种子在慢慢长成树，用文字去见证自己的成长。
 
-* [2017：节拍之年](https://willwang-x.github.io/2018/01/beat)
+* [2017：节拍之年](https://willwang-x.github.io/2018/01/2017-beat)
 * [2018：算法之年](https://willwang-x.github.io/2018/03/2018-algorithms)
