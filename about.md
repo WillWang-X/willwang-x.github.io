@@ -19,3 +19,10 @@ permalink: /about/
 
 * [2017：节拍之年](https://willwang-x.github.io/2018/01/2017-beat)
 * [2018：算法之年](https://willwang-x.github.io/2018/03/2018-algorithms)
+
+
+## 内心的秩序
+
+一生终极目标，**幸福**二字。如果不反思总结，为什么奢望成长？不要低估人类的遗忘能力。
+
+* [更新中的信条](https://willwang-x.github.io/2018/10/mottos)
