@@ -13,4 +13,5 @@ permalink: /about/
 ---
 每一年的关键词：
 
-[2018：算法之年](https://willwang-x.github.io/2018/03/2018-algorithms)
+1. [2017：节拍之年](https://willwang-x.github.io/2018/01/beat)
+2. [2018：算法之年](https://willwang-x.github.io/2018/03/2018-algorithms)
