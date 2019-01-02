@@ -8,10 +8,12 @@ type: post
 published: true
 ---
 
+<br>
+<br>
 
 ![2015.11.03对自己人生的思考](https://i.imgur.com/4hNv6NE.jpg)
 
-图: 2015.11思考人生的部分截图
+<center>图: 2015.11思考人生的部分截图</center>
 
 ## 0
 	
