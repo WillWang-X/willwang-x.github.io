@@ -11,7 +11,7 @@ permalink: /about/
 很高兴认识你！
 
 ---
-## 每一年的关键词
+## 人生关键词
 
 > 独一无二的自己和不可重来的此生，假如不好好发挥作用的话，岂不是枉费了生而为人的意义了吗？
 
@@ -26,3 +26,4 @@ permalink: /about/
 一生终极目标，**幸福**二字。如果不反思总结，为什么奢望成长？不要低估人类的遗忘能力。
 
 * [更新中的信条](https://willwang-x.github.io/2018/10/mottos)
+* [一生所爱](https://willwang-x.github.io/2019/01/life-README)
