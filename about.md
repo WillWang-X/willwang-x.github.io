@@ -24,7 +24,7 @@ permalink: /about/
 
 ## 内心的秩序
 
-一生终极目标，**幸福**二字。如果不反思总结，为什么奢望成长？不要低估人类的遗忘能力。
+一生终极目标，**幸福**二字。如果不反思总结，为什么奢望成长？不低估人类的遗忘能力, 愿过上[奇特的一生](https://book.douban.com/review/9866948/)。
 
 * [更新中的信条](https://willwang-x.github.io/2018/10/mottos)
 * [一生所爱](https://willwang-x.github.io/2019/01/life-README)
