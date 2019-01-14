@@ -2,7 +2,7 @@
 layout: post
 title: 一生所爱
 tags: 
-- LIFETIME
+- lifetime
 status: publish
 type: post
 published: true
