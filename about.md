@@ -19,6 +19,7 @@ permalink: /about/
 
 * [2017：节拍之年](https://willwang-x.github.io/2018/01/2017-beat)
 * [2018：算法之年](https://willwang-x.github.io/2018/03/2018-algorithms)
+* [2019：模式之年](https://willwang-x.github.io/2019/01/2019-pattern)
 
 
 ## 内心的秩序
