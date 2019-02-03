@@ -42,7 +42,7 @@ published: true
 	
 ### 美好
 
-> “种种人生**困惑**，随着人类的三种基本心理需求而波动。第一种是**自主**，你掌握你的**生活**；第二种是胜任，你能胜任自己从事的工作，并从中能获得愉快反馈；第三种是**归属**，你能够与别人建立稳定、持续的人际关系或者亲密关系。“  - [三十六惑](https://www.yangzhiping.com/psy/36Birthday.html)
+> “种种人生**困惑**，随着人类的三种基本心理需求而波动。第一种是**自主**，你掌握你的生活；第二种是**胜任**，你能胜任自己从事的工作，并从中能获得愉快反馈；第三种是**归属**，你能够与别人建立稳定、持续的人际关系或者亲密关系。“  - [三十六惑](https://www.yangzhiping.com/psy/36Birthday.html)
 
 兜兜转转，才发现大道至简，**真善美**才是人间至味。善为内，美为外，真添其味。	
 	
@@ -53,9 +53,9 @@ published: true
 幸福也[内外](https://twitter.com/naval/status/1053206878157627392?lang=en)。
 
 
-「**Worldly** happiness is reward from our evolutionary program. Get praise, money, drugs, sex. It busies the mind with craving & anxiety. 
+「Worldly happiness is reward from our evolutionary program. Get praise, money, drugs, sex. It busies the mind with craving & anxiety. 
 
-**Internal** happiness is reward from being in **flow**. Create, mediate, love, play. It **clears** the mind & **leaves** us in peace. 」
+**Internal** happiness is reward from being in **flow**. Create, mediate, love, play. It **clears** the mind & leaves us in **peace**. 」
 
 
 ### 靠谱
@@ -64,15 +64,17 @@ published: true
 
 靠谱背后是什么呢？是长期而持续的积累、设计与迭代。
 
-* 积累就是去记录经历，形成经验，拿去**验证**，别人照做可**复现**的**清单**。
+* 积累就是去记录经历，形成经验，别人可**复现**的**清单**。
 * 设计就是把清单们**重构**，得到简洁、直觉、彼此**连接**的**系统**。
-* 迭代就是查漏补缺，螺旋上升。
+* 迭代就是查漏补缺，螺旋上升, 是1.01^365 = 37.8。
 
 ### 聪明 
 
 > 真正的**聪明** ＝（神经智力＋经验智力）＊反省智力。- [工作谈](https://www.yangzhiping.com/worksmarter/README)
 
-如纳什，小野二郎，巴菲特。像马达，水手和船长。请科学用脑，刻意练习和自省去形成系统&直觉。
+如[纳什](https://movie.douban.com/subject/1306029/)，[小野二郎](https://movie.douban.com/subject/6146955/)，[巴菲特](https://movie.douban.com/subject/26966609/)。像马达，水手和船长。
+
+请科学用脑，刻意练习和自省去形成系统&直觉。
 
 ### 简单
 
@@ -152,6 +154,7 @@ published: true
 * 2019.01.06: 修改部分语句，和扩展幸福的含义。 
 * 2019.01.14: 补充聪明的例子，类比和方法。和简单的定义。
 * 2019.01.15: 补充靠谱的定义，扩展简单的内涵。
+* 2019.02.02: 简化「积累」，更新「迭代」，补充「人物」链接。
 
 
 ---
