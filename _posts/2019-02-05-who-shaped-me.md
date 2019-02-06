@@ -65,7 +65,7 @@ published: true
 	
 骨骼渐成，血肉未丰。
 	
-再之后，逐渐形成了自己的阅读体系，逐渐弄明白了自己的[一生所爱](https://willwang-x.github.io/2019/01/life-README)。
+再之后，形成了自己的阅读体系，逐渐弄明白了自己的[一生所爱](https://willwang-x.github.io/2019/01/life-README)。
 
 人生主题变成：探索如何成为**一棵树**？
 	
