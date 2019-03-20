@@ -99,11 +99,11 @@ published: true
 	
 - ME系列: 了解自己是解决问题的关键。
 - TC系列: Take care of your life & your life will take care of you. 
-	- [**身体**](https://workflowy.com/s/bodypublic/LQOmcwYgDw69Dti7): “肉体是每个人的神殿，不管里面供奉的是什么，都应该好好保持它的强韧、美丽和清洁。”
-	- **思维**: 说到底，人与人的差距，是认知水平的差距。
-	- **财务**: 不为金钱所累，那就要让它服务于你。
-	- **关系**: 人是悬挂在自己编织的意义之网上的动物。
-	- [**交流**](https://workflowy.com/s/example/septu14yC0wMEyxk): 语言是连接彼此的纽带，冷暖皆在细节。
+	- [**身体B**](https://workflowy.com/s/bodypublic/LQOmcwYgDw69Dti7): “肉体是每个人的神殿，不管里面供奉的是什么，都应该好好保持它的强韧、美丽和清洁。”
+	- **思维M**: 说到底，人与人的差距，是认知水平的差距。
+	- **财务F**: 不为金钱所累，那就要让它服务于你。
+	- **关系R**: 人是悬挂在自己编织的意义之网上的动物。
+	- [**交流C**](https://workflowy.com/s/example/septu14yC0wMEyxk): 语言是连接彼此的纽带，冷暖皆在细节。
 	
 	
 ### 清单系列
