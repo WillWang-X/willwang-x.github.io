@@ -2,7 +2,7 @@
 layout: post
 title: 惊喜和规律
 tags:
-- 随笔
+- tech
 status: publish
 type: post
 published: true

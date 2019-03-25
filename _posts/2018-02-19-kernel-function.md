@@ -2,7 +2,7 @@
 layout: post
 title: 重新发现核函数
 tags:
-- 机器学习 
+- tech 
 status: publish
 type: post
 published: true

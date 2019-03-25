@@ -2,7 +2,7 @@
 layout: post
 title:  知识整理私人指南
 tags: 
-- 随笔
+- lifetime
 status: publish
 type: post
 published: true

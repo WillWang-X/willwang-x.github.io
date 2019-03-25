@@ -2,7 +2,7 @@
 layout: post
 title: 猎物和猎手
 tags: 
-- 随笔
+- random
 status: publish
 type: post
 published: true

@@ -2,7 +2,7 @@
 layout: post
 title:  面向对象之继承
 tags:
-- 概念集
+- tech
 status: publish
 type: post
 published: true

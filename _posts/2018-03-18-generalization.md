@@ -2,7 +2,7 @@
 layout: post
 title:  什么是泛化？猜！
 tags:
-- 机器学习
+- tech
 status: publish
 type: post
 published: true

@@ -2,7 +2,7 @@
 layout: post
 title: 擦鞋匠，老奶奶和小女儿
 tags:
-- 常识系列
+- random
 status: publish
 type: post
 published: true
