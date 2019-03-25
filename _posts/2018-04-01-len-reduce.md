@@ -1,6 +1,6 @@
 --- 
 layout: post
-title:  关于效率：len()的诞生和reduce()的死亡
+title: 惊喜和规律
 tags:
 - 随笔
 status: publish
