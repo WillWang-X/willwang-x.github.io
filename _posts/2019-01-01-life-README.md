@@ -48,9 +48,9 @@ published: true
 	
 ### 幸福
 
-> 幸福的时间尺度：秒时间尺度上生发的**愉悦**、分钟小时时间尺度上生发的**专注**、超越时间尺度上生发的**意义**。- [三生有幸]((https://book.douban.com/subject/27663156/))
+> 幸福的时间尺度：秒时间尺度上生发的**愉悦**、分钟小时时间尺度上生发的**专注**、超越时间尺度上生发的**意义**。- [三生有幸](https://book.douban.com/subject/27663156/)
 
-幸福也[内外](https://twitter.com/naval/status/1053206878157627392?lang=en)。
+幸福有尺度，幸福也有[内外](https://twitter.com/naval/status/1053206878157627392?lang=en)。
 
 
 「Worldly happiness is reward from our evolutionary program. Get praise, money, drugs, sex. It busies the mind with craving & anxiety. 
@@ -60,7 +60,7 @@ published: true
 
 ### 靠谱
 
-> 所谓**靠谱**，就是他的输出**稳定**、接口**简洁**、能**自动化**、**批量化**帮你解决问题。 - [论智力入侵]((https://www.yangzhiping.com/psy/HumanityAndViolence.html))
+> 所谓**靠谱**，就是他的输出**稳定**、接口**简洁**、能**自动化**、**批量化**帮你解决问题。 - [论智力入侵](https://www.yangzhiping.com/psy/HumanityAndViolence.html)
 
 靠谱背后是什么呢？是长期而持续的积累、设计与迭代。
 
