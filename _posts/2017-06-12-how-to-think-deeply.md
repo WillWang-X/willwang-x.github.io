@@ -1,6 +1,6 @@
 --- 
 layout: post
-title:  Elon Musk的A字思考法：如何深入思考一个问题？
+title:  A字思考法
 tags: 
 - learner
 status: publish
