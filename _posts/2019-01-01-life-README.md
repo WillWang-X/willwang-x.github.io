@@ -78,6 +78,10 @@ published: true
 
 请科学用脑，刻意练习和自省去形成系统&直觉。
 
+
+
+- More: [third person](https://aeon.co/ideas/why-speaking-to-yourself-in-the-third-person-makes-you-wiser)
+
 ### 简单
 
 > "**简单**，就是拥有极少，把空间留给**必需和精华**。简单，让生活摆脱使人精力分散、紧张不安的偏见、拘束和压力，为我们提供很多问题的解决方法。不要再拥有过多的东西，你将省出更多时间来关注自己的身体。当对自己的身体感觉良好时，就能忘记肉体的存在，专注于精神发展，达到充满意义的生命状态。你将感到更加幸福。" - 简单的艺术
@@ -170,3 +174,4 @@ published: true
 * 2019.02.02: 简化「积累」，更新「迭代」，补充「人物」链接。
 * 2019.05.24: 添加注释：人生关键词； 优化清单结构：[见自己，见天地，见众生](https://www.zhihu.com/question/20744771)
 * 2019.06.28: 简单不仅仅是必需和精华，还关于秩序。
+* 2019.08.15: 添加聪明的**练习**部分: [third person](https://aeon.co/ideas/why-speaking-to-yourself-in-the-third-person-makes-you-wiser), 将关键词分解成更多的关键词。
