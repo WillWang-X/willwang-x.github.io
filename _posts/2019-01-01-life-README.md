@@ -164,7 +164,7 @@ published: true
 ### 注：
 
 - 每年关键词：2017节奏，2018算法，2019模式
-- 感兴趣的词：系统，工具，领导力，复杂，数学，网络，设计，交流，趋势
+- 感兴趣的词：系统，工具，领导力，复杂，数学，网络，设计，交流，趋势，tradeoff
 
 ## Log 
 
@@ -175,3 +175,4 @@ published: true
 * 2019.05.24: 添加注释：人生关键词； 优化清单结构：[见自己，见天地，见众生](https://www.zhihu.com/question/20744771)
 * 2019.06.28: 简单不仅仅是必需和精华，还关于秩序。
 * 2019.08.15: 添加聪明的**练习**部分: [third person](https://aeon.co/ideas/why-speaking-to-yourself-in-the-third-person-makes-you-wiser), 将关键词分解成更多的关键词。
+* 2019.08.21: 添加感兴趣的词：tradeoff。 Many things are about tradeoff.
