@@ -42,6 +42,9 @@ published: true
 > “种种人生**困惑**，随着人类的三种基本心理需求而波动。第一种是**自主**，你掌握你的生活；第二种是**胜任**，你能胜任自己从事的工作，并从中能获得愉快反馈；第三种是**归属**，你能够与别人建立稳定、持续的人际关系或者亲密关系。“  - [三十六惑](https://www.yangzhiping.com/psy/36Birthday.html)
 
 兜兜转转，才发现大道至简，**真善美**才是人间至味。善为内，美为外，真添其味。	
+
+- 真实有万钧之力，说话最难在于准确，准确需要足够的了解，判断的知识，表达的能力，客观的态度。真相常流失于涕泪交加中，慢一点，再慢一点，让情绪褪去之后，再带着情绪去表达。
+- “学问有个特征比有没有用更重要，那就是美不美。” - [马奇](https://www.wikiwand.com/en/James_G._March)
 	
 ### 幸福
 
@@ -171,3 +174,4 @@ published: true
 * 2019.08.15: 添加聪明的**练习**部分: [third person](https://aeon.co/ideas/why-speaking-to-yourself-in-the-third-person-makes-you-wiser), 将关键词分解成更多的关键词。
 * 2019.08.21: 添加感兴趣的词：tradeoff。 Many things are about tradeoff.
 * 2019.09.15: 通顺文字逻辑。
+* 2019.10.15: 添加解释「真善美」
