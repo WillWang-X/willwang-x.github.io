@@ -43,7 +43,7 @@ published: true
 
 兜兜转转，才发现大道至简，**真善美**才是人间至味。善为内，美为外，真添其味。	
 
-- 真实有万钧之力，说话最难在于准确，准确需要足够的了解，判断的知识，表达的能力，客观的态度。真相常流失于涕泪交加中，慢一点，再慢一点，让情绪褪去之后，再带着情绪去表达。
+- 真实有万钧之力，说话最难在于准确，准确需要足够的了解，判断的知识，表达的能力，客观的态度。真相常流失于涕泪交加中，慢一点，再慢一点，让[情绪](https://book.douban.com/subject/30443490/)褪去之后，再带着情绪去表达。
 - “学问有个特征比有没有用更重要，那就是美不美。” - [马奇](https://www.wikiwand.com/en/James_G._March)
 	
 ### 幸福
@@ -101,7 +101,7 @@ published: true
 	
 成为世界的一部分，还是让世界成为你的一部分？
 	
-- ME系列: 了解自己是解决问题的关键。
+- ME系列: 了解[自己](https://book.douban.com/subject/34836531/)是解决问题的关键。
 - TC系列: Take care of your life & your life will take care of you. 
 	- [**身体B**](https://workflowy.com/s/bodypublic/LQOmcwYgDw69Dti7): “肉体是每个人的神殿，不管里面供奉的是什么，都应该好好保持它的强韧、美丽和清洁。”
 	- **思维M**: 说到底，人与人的差距，是认知水平的差距。
@@ -125,9 +125,9 @@ published: true
 	
 - [品质清单](https://workflowy.com/s/ethics/Jibjijzgeb29k4I0)：了解自己很重要，也很艰难，但是必须要做。你的**本性**，[道德](https://www.wikiwand.com/zh-hans/%E6%9F%AF%E5%B0%94%E4%BC%AF%E6%A0%BC%E9%81%93%E5%BE%B7%E5%8F%91%E5%B1%95%E9%98%B6%E6%AE%B5) / [**价值观**](https://workflowy.com/s/3d0638300cdb/0LuD1Aeiek1PGSJ5)，**审美**，模式。如果你不能量化它，你就不能提高它。
 - **技能**清单：核心驱动力和竞争力，一维突出，多维指数增长。划定自己的能力圈。
-- **阅读**清单：内在提升的途径，是为**智慧**基础。[元&深&广&势&专](https://workflowy.com/s/f1763882b3d/34LNXFbqhoQ9Rhzr)。
+- **阅读**清单：内在提升的途径，是为**智慧**基础。[元&深&广&势&专](https://willwang.cc/2017/09/books)。
 - [**工具**清单](https://workflowy.com/s/shared/1EHC18YwaC7PJGm8)：外在提升的途径，是为**物质**基础。最好的工具是物我合一，见豆列。
-- **目标**清单：留有空间，保存对**未来长远规划**的思考，才是更重要的事情。
+- **目标**清单：留有[空间](https://book.douban.com/subject/26178426//)，保存对**未来长远规划**的思考，才是更重要的事情。
 
 <br>
 
@@ -161,7 +161,7 @@ published: true
 ### 注：
 
 - 每年关键词：2017节奏，2018算法，2019模式
-- 感兴趣的词：系统，工具，领导力，复杂，数学，网络，设计，交流，趋势，tradeoff，真相
+- 感兴趣的词：系统，工具，领导力，复杂，数学，网络，设计，交流，趋势，tradeoff，[规模](https://book.douban.com/subject/30244461/)，[直觉](https://book.douban.com/subject/30340107/)，常识，[类比](https://book.douban.com/subject/30383926/)，历史，[真相](https://book.douban.com/subject/33387422/)
 
 ## Log 
 
@@ -175,3 +175,4 @@ published: true
 * 2019.08.21: 添加感兴趣的词：tradeoff。 Many things are about tradeoff.
 * 2019.09.15: 通顺文字逻辑。
 * 2019.10.15: 添加解释「真善美」
+* 2019.11.20: 添加关键词「规模->真相」，更新一些链接。
