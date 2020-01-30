@@ -161,7 +161,7 @@ published: true
 ### 注：
 
 - 每年关键词：2017节奏，2018算法，2019模式
-- 感兴趣的词：系统，工具，领导力，复杂，数学，网络，设计，交流，趋势，tradeoff，[规模](https://book.douban.com/subject/30244461/)，[直觉](https://book.douban.com/subject/30340107/)，常识，[类比](https://book.douban.com/subject/30383926/)，历史，[真相](https://book.douban.com/subject/33387422/)，[社群](https://workflowy.com/s/public/rc0YTBuDYAcI3TA9)
+- 感兴趣的词：系统，工具，领导力，复杂，数学，网络，设计，交流，趋势，tradeoff，[规模](https://book.douban.com/subject/30244461/)，[直觉](https://book.douban.com/subject/30340107/)，常识，[类比](https://book.douban.com/subject/30383926/)，历史，[真相](https://book.douban.com/subject/33387422/)，[社群](https://workflowy.com/s/public/rc0YTBuDYAcI3TA9)，语言
 
 ## Log 
 
@@ -177,3 +177,4 @@ published: true
 * 2019.10.15: 添加解释「真善美」
 * 2019.11.20: 添加关键词「规模->真相」，更新一些链接。
 * 2019.11.23: 添加关键词「社群」
+* 2020.01.30: 添加关键词「语言」语言学是一门心理学。
