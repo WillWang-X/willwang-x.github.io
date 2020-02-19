@@ -131,4 +131,4 @@ published: true
 
 ## Log
 
-- 2020.02.18: 这篇文字的想法，两年前就有了。今日发呆时冒出「远近虚实大小缓急主偏」，健身后又有了写篇完整文章的冲动，便结合之前的笔记，抓住灵感，快速[出稿](https://i.imgur.com/kZjksCz.png)到慢改[终稿](https://i.imgur.com/XPye0Of.jpg)，用时200分钟。
+- 2020.02.18: 这篇文字的想法，两年前就有了。今日发呆时冒出「远近虚实大小缓急主偏」，健身后又有了写篇完整文章的冲动，便结合之前的笔记，抓住灵感，快速[出稿](https://i.imgur.com/kZjksCz.png)到慢改[终稿](https://i.imgur.com/kAAwHsn.jpg)，用时200分钟。
