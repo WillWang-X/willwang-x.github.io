@@ -36,8 +36,8 @@ published: true
 
 以下便是一系列启发点以及一句话描述。
 
-1. 2020-02-27: [Will We Run out of Helium?](https://www.thoughtco.com/will-we-run-out-of-helium-3975959)：元素周期表一份，有一些会常驻，有一些会用完。
-2. ...
+1. 2020-02-27: [Will We Run out of Helium?](https://www.thoughtco.com/will-we-run-out-of-helium-3975959)：元素周期表一份，有一些会常驻，有一些会用完。氦够轻，足以逃离地球引力场。惰性气体，难以以化合物存在。有广泛用途，如潜水。 
+2. 2020-03-11: [天有多高](https://www.youtube.com/watch?v=x1QyVwFRrIg): 世界物理空间的了解。一份高度探索旅行清单。10万米是天的边界。
 
 <br>
 <br>
