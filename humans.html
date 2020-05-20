@@ -2,14 +2,15 @@
 layout: default
 title: 关键词
 permalink: /humans/
+keywords:
+  - keywords
+  - humans
 ---
 <div class="wrapper">
-{% for tag in site.tags %}
-<a name="{{ tag | first }}"><h2>{{ tag | first }}</h2></a>
-    <ul  class="unstyled">
-    {% for post in tag.last %}
-      <li><a href="{{ humans.url }}">{{ humans.title }}</a></li>
-    {% endfor %}
-    </ul>
+<ul class="postsList">
+{% for post in site.humans limit: 50%}
+<li><span>{{ post.date | date: "%b %d, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
 {% endfor %}
+<li><a class="btn"  href="/humans/">地球人</a> →</li>
+</ul>
 </div>
