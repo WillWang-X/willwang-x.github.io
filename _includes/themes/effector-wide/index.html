@@ -1,7 +1,7 @@
 <div class="wrapper">
 <ul class="postsList">
 {% for post in site.posts limit: 50%}
-	{% if post.tags not contains 'humans' %}
+	{% if post.path contains 'blogs' %}
 <li><span>{{ post.date | date: "%b %d, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
 	{% endif %}
 {% endfor %}
