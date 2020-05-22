@@ -1,3 +1,13 @@
 ---
 layout: none
 ---
+
+<div class="wrapper">
+<ul class="postsList">
+{% for post in site.posts limit: 50%}
+	{% if post.path contains 'humans' %}
+<li><span>{{ post.date | date: "%b %d, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a></li>
+	{% endif %}
+{% endfor %}
+</ul>
+</div>
