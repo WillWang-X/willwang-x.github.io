@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: 读书笔记：《我们赖以生存的隐喻》
+title: 《我们赖以生存的隐喻》笔记
 tags: 
 - booknotes
 status: publish
@@ -9,6 +9,8 @@ published: true
 ---
 
 
+<br>
+<br>
 
 > 认知学的《物种起源》
 
