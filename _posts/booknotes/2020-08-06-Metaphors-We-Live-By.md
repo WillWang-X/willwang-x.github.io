@@ -16,7 +16,7 @@ published: true
 
 ## 1. Why?
 
-![](https://i.imgur.com/mgtKpvf.jpg)
+![](https://i.imgur.com/mgtKpvf.jpg=50x)
 
 为什么我们需要理解隐喻？
 	
