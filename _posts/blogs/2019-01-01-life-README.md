@@ -180,3 +180,4 @@ published: true
 * 2019.11.23: 添加关键词「社群」
 * 2020.01.30: 添加关键词「语言」语言学是一门心理学。
 * 2020.08.06: 添加关键词 rule 和 alert
+* 2020.08.08: Add[三叶草模型](https://pic2.zhimg.com/f6abeda71ce94f48eff7b2425fa073c7_r.jpg?source=1940ef5c) [by [叶昭苏](https://www.zhihu.com/question/24272298/answer/32399629)]，达成目标，在技能之外，要考虑本性，价值观和外部环境三要素。
