@@ -123,7 +123,7 @@ published: true
 	
 内:	[技能&阅读] → {知识+工具} → 品质 → 目标
 	
-- [品质清单](https://workflowy.com/s/ethics/Jibjijzgeb29k4I0)：了解自己很重要，也很艰难，但是必须要做。你的**本性**，[道德](https://www.wikiwand.com/zh-hans/%E6%9F%AF%E5%B0%94%E4%BC%AF%E6%A0%BC%E9%81%93%E5%BE%B7%E5%8F%91%E5%B1%95%E9%98%B6%E6%AE%B5) / [**价值观**](https://workflowy.com/s/3d0638300cdb/0LuD1Aeiek1PGSJ5)，**审美**，模式。如果你不能量化它，你就不能提高它。
+- [品质清单](https://workflowy.com/s/ethics/Jibjijzgeb29k4I0)：了解自己很重要，也很艰难，但是必须要做。你的**本性**，[道德](https://www.wikiwand.com/zh-hans/%E6%9F%AF%E5%B0%94%E4%BC%AF%E6%A0%BC%E9%81%93%E5%BE%B7%E5%8F%91%E5%B1%95%E9%98%B6%E6%AE%B5) / [**价值观**](https://workflowy.com/s/3d0638300cdb/0LuD1Aeiek1PGSJ5)，**审美**，模式。如果你不能量化它，你就不能提高它。品质是受环境影响的，所以请找到适合自己的环境。
 - **技能**清单：核心驱动力和竞争力，一维突出，多维指数增长。划定自己的能力圈。
 - **阅读**清单：内在提升的途径，是为**智慧**基础。[元&深&广&势&专](https://willwang.cc/2017/09/books)。
 - [**工具**清单](https://workflowy.com/s/shared/1EHC18YwaC7PJGm8)：外在提升的途径，是为**物质**基础。最好的工具是物我合一，见豆列。
@@ -133,8 +133,8 @@ published: true
 
 外: 见自己，见天地，见众生
 
-- [数据清单](https://workflowy.com/s/c1f0a674d456/YKfDLNWaVU8K2V2Z)：把自己所有可公开数据都公开，便于之后自我统计，如Instagram, 豆瓣，Github。
-- 物品清单：我最少需要的东西有多少呢？ [个人装备](https://www.douban.com/photos/album/1679804396/)
+- [数据清单](https://workflowy.com/s/c1f0a674d456/YKfDLNWaVU8K2V2Z)：想找一个好的可视化自己数据方法？如某人？，如[Instagram](https://www.instagram.com/will.will.wang/)，[豆瓣](https://www.douban.com/people/lanluotiankong/)，[Github](https://github.com/willwang-x)，[微博](https://weibo.com/aibutong/)
+- 物品清单：我最少需要的东西有多少呢？ [个人装备](https://www.douban.com/photos/album/1679804396/)，[Pinterest-My Items](https://www.pinterest.com/willwillwang/myitems/)
 - 感谢清单：要学会感谢别人释放的善意，让暖意得到延续。
 - 旅行清单：在电脑面前看，远不及**所有感官**都被冲击所带来的记忆和**震撼**。观山河。
 - 作品清单：人生在世，最重要的是用作品去讲话。
