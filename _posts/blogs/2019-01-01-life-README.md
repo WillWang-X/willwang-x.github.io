@@ -101,7 +101,7 @@ published: true
 	
 成为世界的一部分，还是让世界成为你的一部分？
 	
-- ME系列: 了解[自己](https://book.douban.com/subject/34836531/)是解决问题的关键。
+- ME系列: 了解[自己](https://book.douban.com/subject/34836531/)是解决问题的关键。e.g. [故事清单](https://workflowy.com/#/138af7ff53ee)
 - TC系列: Take care of your life & your life will take care of you. 
 	- [**身体B**](https://workflowy.com/s/bodypublic/LQOmcwYgDw69Dti7): “肉体是每个人的神殿，不管里面供奉的是什么，都应该好好保持它的强韧、美丽和清洁。”
 	- **思维M**: 说到底，人与人的差距，是认知水平的差距。
@@ -181,3 +181,4 @@ published: true
 * 2020.01.30: 添加关键词「语言」语言学是一门心理学。
 * 2020.08.06: 添加关键词 rule 和 alert
 * 2020.08.08: Add[三叶草模型](https://pic2.zhimg.com/f6abeda71ce94f48eff7b2425fa073c7_r.jpg?source=1940ef5c) [by [叶昭苏](https://www.zhihu.com/question/24272298/answer/32399629)]，达成目标，在技能之外，要考虑本性，价值观和外部环境三要素。
+* 2020.08.09: 添加「故事清单」，了解自己，细化为了解发生在自己身上的事情，以史为鉴。
