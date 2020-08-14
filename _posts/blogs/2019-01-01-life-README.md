@@ -92,6 +92,8 @@ published: true
 
 	
 ## 2 行动
+
+![](https://i.imgur.com/a8aDhF1.png)
 	
 认识世界（主题）和改造世界（清单）是人类创造历史的两个基本活动。无数人的一生造就了人类的历史。
 	
@@ -133,7 +135,7 @@ published: true
 
 外: 见自己，见天地，见众生
 
-- [数据清单](https://workflowy.com/s/c1f0a674d456/YKfDLNWaVU8K2V2Z)：想找一个好的可视化自己数据方法？如某人？，如[Instagram](https://www.instagram.com/will.will.wang/)，[豆瓣](https://www.douban.com/people/lanluotiankong/)，[Github](https://github.com/willwang-x)，[微博](https://weibo.com/aibutong/)
+- [数据清单](https://workflowy.com/s/c1f0a674d456/YKfDLNWaVU8K2V2Z)：想找一个好的可视化自己数据方法？如某人？，如 [Instagram](https://www.instagram.com/will.will.wang/)，[豆瓣](https://www.douban.com/people/lanluotiankong/)，[Github](https://github.com/willwang-x)，[微博](https://weibo.com/aibutong/)
 - 物品清单：我最少需要的东西有多少呢？ [个人装备](https://www.douban.com/photos/album/1679804396/)，[Pinterest-My Items](https://www.pinterest.com/willwillwang/myitems/)
 - 感谢清单：要学会感谢别人释放的善意，让暖意得到延续。
 - 旅行清单：在电脑面前看，远不及**所有感官**都被冲击所带来的记忆和**震撼**。观山河。
