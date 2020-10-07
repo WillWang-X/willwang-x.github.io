@@ -8,7 +8,7 @@ type: books
 published: false
 ---
 
-![](https://i.imgur.com/gQCwiXu.jpg)
+![your brain at work](https://i.imgur.com/gQCwiXu.jpg)
 
 
 <br>
