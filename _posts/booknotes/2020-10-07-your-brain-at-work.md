@@ -3,9 +3,9 @@ layout: post
 title: 《Your brain at work》笔记
 tags: 
 - booknotes
-status: unpublish
+status: publish
 type: books
-published: true
+published: false
 ---
 
 ![](https://i.imgur.com/gQCwiXu.jpg)
