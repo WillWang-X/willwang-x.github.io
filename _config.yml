@@ -1,12 +1,12 @@
 markdown: kramdown
-permalink: /:year/:month/:title 
-title: 大象的森林
+permalink: /:year/:month/:title
+title: 大象的客厅
 url: https://willwang-x.github.io/
 subscribe: https://willwang-x.github.io/
 exclude: [ README.md, newpost.rb ]
-domain: 
+domain:
 author: CNFeat
-email: lanluotiankong@gmail.com
-twitterID: 
-disqusShortname: 
+email: willwangcc@gmail.com
+twitterID:
+disqusShortname:
 safe: true

@@ -5,7 +5,7 @@ tags:
 - lifetime
 status: publish
 type: post
-published: true
+published: flase
 ---
 
 <br>
@@ -41,7 +41,6 @@ published: true
 
 <br>
 <br>
-
-简之           
+           
 2020.02.27 于西雅图Amelia<br>
 

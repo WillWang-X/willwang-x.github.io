@@ -66,8 +66,7 @@ published: true
 
 <br>
 <br>
-
-简之           
+           
 2020.08.03 于西雅图WFH<br>
 
 

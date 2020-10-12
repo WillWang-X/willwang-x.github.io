@@ -100,7 +100,6 @@ Many uses of reduce() are clearer when written as for loops.
 
 <br>
 <br>
-
-简之           
+         
 2018.04.01         
 

@@ -129,8 +129,7 @@ published: true
 
 <br>
 <br>
-
-简之           
+           
 2020.02.18 于西雅图Amelia<br>
 
 
