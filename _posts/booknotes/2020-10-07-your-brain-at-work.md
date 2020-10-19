@@ -24,6 +24,7 @@ published: false
 
 ## How
 
+* Use the brain to **interact with information** rather trying **store** information, by creating **visuals** for complex ideas and by **listing** projects.
 
 ## What
 
