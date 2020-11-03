@@ -45,7 +45,9 @@ published: false
 * It might be that part of the function of REM sleep dreaming is to identify sort of **wacky associations, connections**, that we would never discover while we're awake.
 * Creativity is nothing more than taking information we already have and seeing how it **fits together** in a new and exciting way.
 
+## Screenshot
 
+> some image that helps you understand the key concepts
 
 <br>
 <br>
