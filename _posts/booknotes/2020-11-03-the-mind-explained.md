@@ -33,6 +33,8 @@ published: false
 
 ## What
 
+> The link could be images or source
+
 [Memory](https://www.netflix.com/watch/81062188)：
 
 * **Story, place, and emotion** are the foundation of some of our strongest memories.
@@ -63,9 +65,6 @@ published: false
 	* e.g. This cartoon from a 1906 Punch magazine paints **the wireless telegraph** as a threat to natural human interactions.
 * **How**? One 2015 review of 234 studies compared the effects of doing nothing,	exercise, placebo pills, therapy, mindfulness meditation, and medication. They found the most effective treatment was **a combination of drugs and therapy**. One of the most popular types of therapy is cognitive behavioral therapy, or CBT, where you talk with a therapist to alter negative thought and behavior patterns.
 
-## Screenshot
-
-> some image that helps you understand the key concepts
 
 <br>
 <br>
