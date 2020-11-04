@@ -65,6 +65,20 @@ published: false
 	* e.g. This cartoon from a 1906 Punch magazine paints **the wireless telegraph** as a threat to natural human interactions.
 * **How**? One 2015 review of 234 studies compared the effects of doing nothing,	exercise, placebo pills, therapy, mindfulness meditation, and medication. They found the most effective treatment was **a combination of drugs and therapy**. One of the most popular types of therapy is cognitive behavioral therapy, or CBT, where you talk with a therapist to alter negative thought and behavior patterns.
 
+[Mindfulness](https://www.netflix.com/watch/81062191):
+
+* WHY? 
+* When researchers studied the brain waves of a whole group of long-term meditators, they found similar results. The moment meditation began, there was a sudden [rush](https://i.imgur.com/gpUKd5F.png) of activity. Meditation causes big changes in the minds of experts. But when beginners meditate, [not much happens](https://i.imgur.com/nVFXCKT.png). These observations seem to back up a long-held claim that meditation can make you **a master of your own mind**. 
+* Scientists invited Yongey Mingyur Rinpoche to Wisconsin, so they could look at his brain. They found that although he was 41, he had the brain of a **33-year-old**. When they had him go in an fMRI machine and cultivate a sense of compassion by meditating, the [activity](https://i.imgur.com/Tzq5eX4.png) and his empathy circuits shot up seven to **800 percent**.
+* And we can see that activity in brain scans, lighting up something called the [Default Mode Network](https://i.imgur.com/MxQakVP.png), or DMN. It's what allows us to **call up memories or imagine the future**, but it also lets us endlessly ruminate about regrets and fears.	It's what some Buddhists call the “monkey mind.” If your mind goes out a million times, be mindful and kind enough to bring it back to the present moment a million times. You can tame the monkey mind. That noticing of distraction, of noticing that your mind is lost, is so important because it's **a moment of awakening**.
+* In that moment, when you direct your attention back to your breath, a part of the brain lights up, the dorsolateral prefrontal cortex. It’s one of those brain regions that sets us primates apart from other animals, part of the control center that helps us **focus**. Meditation strengthens its [connection](https://i.imgur.com/QVFMpkq.png) to the DMN, and in brain scans of expert meditators, their DMNs are [less active](https://i.imgur.com/TYOrOzI.png). This could be the mental muscle that meditation sessions develop. We are simply practicing the quality of paying attention over and over again.
+* But a study found that the more meditation experience someone has, the **less their amygdalas react to these kinds of images**. That could be because the [connection](https://i.imgur.com/45THNOg.png) between the emotional part and the regulatory part of the brain has been strengthened by mindfulness training.
+* Expert meditators, like all of us, can’t fully control what happens in their lives, but they have much **better control over how they respond**. And that can be a powerful tool when tensions are high.
+* But expert meditators [react much less in anticipation](https://i.imgur.com/P6u6Uua.png), then they feel the pain very intensely,	‎and then activity falls much faster. Something similar is seen in the emotional center of the brain, the amygdala.	‎Beginners have a lot of activation there when anticipating pain, but [experts don't](https://i.imgur.com/juWZdS6.png).
+* WHAT？
+* Things happen and we react. And so part of the practice of mindfulness is bringing awareness to what it is that our minds are actually doing. e.g. [Mr. Turtle and Mr. Fox](https://i.imgur.com/V1pW9uu.png) 
+* In 2019, the two companies ([Headspace & Calm](https://i.imgur.com/ciUazFt.png)) were valued at 320 million and one billion dollars.
+ 
 
 <br>
 <br>
