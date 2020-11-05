@@ -79,6 +79,21 @@ published: false
 * Things happen and we react. And so part of the practice of mindfulness is bringing awareness to what it is that our minds are actually doing. e.g. [Mr. Turtle and Mr. Fox](https://i.imgur.com/V1pW9uu.png) 
 * In 2019, the two companies ([Headspace & Calm](https://i.imgur.com/ciUazFt.png)) were valued at 320 million and one billion dollars.
  
+[psychedelic](https://www.netflix.com/watch/81062192)
+
+* What?
+	* In the years to come, scientists would investigate molecules with similar properties found in mushrooms, cacti, including the peyote cactus, and tropical plants that are used in the psychoactive drink Ayahuasca.  LSD, psilocybin, mescaline, and DMT are known as the classic psychedelics. They can all be eaten, DMT and mescaline are sometimes smoked, and these [three can be brewed into a tea](https://i.imgur.com/7t2Ykqt.png).
+	* LSD is so potent, tiny drops can be placed on blotter paper, which you let dissolve in your mouth. They all enter the bloodstream and then bind to serotonin receptors in your brain, which can **dramatically change your perception of reality for three to twelve hours**, depending on the drug and the dose and the person. 
+	* In a way, it's kind of like meditation. Meditation is the tried and true course to investigation of nature of mind, and psychedelics is **the crash course**. Most people will rate this experience a year afterwards as being among the most personally meaningful or spiritually significant experiences of their entire lifetime.
+* How?
+	* They're kind of **ground control** while you're traveling up in space. I mean that's what shamans do. You believe in the authority of this person and that the potion he's giving you is going to heal you. 
+	* The guide's job is to **cultivate a set and setting** that’s conducive to a meaningful but not too terrifying experience. They might play music... or put on blindfolds and headphones to limit stimulation from the outside	 and encourage a turn inward. The guide’s work doesn’t end when the trip is over. The integration is so important. How are you going to make this now a part of you rather than just an experience?
+* Why?
+	* In 2014，researchers mapped what’s happening in the brain during a trip. This is a representation of a normal sober brain. These dots are different regions of the brain, and these lines are the connections. And here’s [what the tripping brain looks like](https://i.imgur.com/kQwpk8e.jpeg). **Regions that wouldn’t usually talk are now in lively conversation.**
+	* A leading psychedelic researcher once said you can think of your mind as a snow-covered hill and your thoughts are sleds. A path is pressed into the snow.	‎It gets [deeper and deeper](https://i.imgur.com/ahzI3gN.png) and soon it’s hard to escape that groove. **A psychedelic trip is [the fresh snowfall](https://i.imgur.com/8kNz238.png) that lets your sleds explore a new path.** That could mean changing an ingrained behavior, like an alcohol or cigarette addiction.
+	* Depression and anxiety are very much like addictions. People in depression and anxiety are often in this ruminating pattern. You're getting stuck in loops of thought, you're getting stuck on narratives of who you are. The brain circuitry responsible for constantly mulling over the past and future, creating this narrow sense of self, is the default mode network. This seems to be the seat of the ego. In depression, activity in the [default mode network](https://i.imgur.com/7K3WSmf.jpeg) is increased ‎and **it's decreased acutely with a drug like psilocybin.** By dissolving the ego, you may dissolve the hold of narratives on people.
+* Warning
+	* These drugs are unique. More than any pharmaceutical on the market, the effects of these compounds depend **on where you take them, who you take them with, and what you want them to do.** I don't think these drugs are right for everyone, ‎but for a great many of us, I think they offer potential.
 
 <br>
 <br>
