@@ -5,7 +5,7 @@ tags:
 - booknotes
 status: publish
 type: books
-published: false
+published: true
 ---
 
 ![the mind - mindmap](https://i.imgur.com/QkjdTdE.jpeg)
@@ -27,9 +27,13 @@ published: false
 
 ## How
 
-* 观看
-* 总结观点
-* 记录
+从记录中获得的一些有用信息：
+
+* 强化记忆的三个关键：**Story, place, and emotion**
+* 睡眠的作用：帮助忘记，遍历所有可能答案。
+* People with **clinical** anxiety无法通过理智解决，因为负责理智和情绪的大脑区域不再一起。现阶段最好的治疗是：a combination of drugs and therapy
+* 冥想是经过验证的有效提供人对mind控制能力的方式。
+* 致幻剂像是给大脑带来了一场雪，但是没有人引导，可能是一场雪灾。
 
 ## What
 
