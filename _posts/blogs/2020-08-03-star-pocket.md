@@ -13,15 +13,9 @@ published: true
 
 [Updated](https://github.githistory.xyz/willwang-x/willwang-x.github.io/blob/master/_posts/blogs/2020-08-03-star-pocket.md): 2020.11.05
 
-<br>
-<br>
 
 ![will's exmaple](https://i.imgur.com/1D5K3g8.png)
-
-<br>
-<br>
 	
-
 
 ## 1
 	
@@ -64,7 +58,7 @@ published: true
 	
 ## 4
 
-最后，也渐渐笃定，去好好打理那些让自己感动又感动的人事物书影音，好好把他们放在生活中看得见的位置，ta们是人生美好故事的灵感。
+最后，也渐渐笃定，去好好打理那些让自己感动又感动的人事物书影音，好好把他们放在生活中看得见的位置，因为，似乎本质上，我们一生就是在寻找那些能让我们感动一遍又一遍，然后可以与之度过一天又一天，平静而喜悦。
 
 
 <br>
