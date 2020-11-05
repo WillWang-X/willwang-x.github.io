@@ -9,14 +9,10 @@ published: true
 ---
 
 <br>
-<br>
-
 [Updated](https://github.githistory.xyz/willwang-x/willwang-x.github.io/blob/master/_posts/blogs/2020-08-03-star-pocket.md): 2020.11.05
 
-
-![will's exmaple](https://i.imgur.com/1D5K3g8.png)
+![will's exmaple](https://i.imgur.com/pgLa1rR.png)
 	
-
 ## 1
 	
 最近遇到三件事情，有些思考：
