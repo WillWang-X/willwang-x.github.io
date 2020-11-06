@@ -5,7 +5,7 @@ tags:
 - booknotes
 status: publish
 type: books
-published: true
+published: false
 ---
 
 
