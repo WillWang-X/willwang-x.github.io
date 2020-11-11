@@ -26,7 +26,7 @@ published: false
 ## How
 
 * 观看 with LLN
-* 记录 with workflowy
+* 记录 with sublime/workflowy
 * 学习 with ODH
 
 ## What
