@@ -13,10 +13,11 @@ A fan of [Anki](https://github.com/willwang-x/tools/blob/main/tools/anki/anki.md
 
 [Minimalism](https://github.com/willwang-x/all-about-will/blob/master/define/minimalism.md), [Long-termism](https://github.com/willwang-x/workflow), [Growth mindset](https://willwang.cc/2018/10/tenet). 
 
+---
 
 ## FQAs:
 
-#### Q：大象的名字有什么特别含义么？
+### Q：大象的名字有什么特别含义么？
 
 A：从最初，含义也逐渐被扩展，如下：
 
