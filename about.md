@@ -15,7 +15,7 @@ A fan of [Anki](https://github.com/willwang-x/tools/blob/main/tools/anki/anki.md
 
 ---
 
-## FQAs:
+## FAQs:
 
 ### Q：大象的名字有什么特别含义么？
 
