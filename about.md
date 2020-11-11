@@ -7,11 +7,11 @@ permalink: /about/
 ![Me](https://i.imgur.com/OJjTJOt.jpg)
 
 
-你好哇！很高兴认识你！我是大象。人生目标是探索成为一棵树。<sup>Version 3.0 </sup>
+你好哇！很高兴认识你！我是大象。人生目标是探索成为[一棵树](https://willwang.cc/2019/01/life-README)。<sup>Version 3.0 </sup>
 
-A fan of Anki, GitHub, Trevor Noah & Charlie Murger. 
+A fan of [Anki](https://github.com/willwang-x/tools/blob/main/tools/anki/anki.md), GitHub, Trevor Noah & Charlie Murger. 
 
-Minimalism, Long-termism, Growth mindset. 
+[Minimalism](https://github.com/willwang-x/all-about-will/blob/master/define/minimalism.md), [Long-termism](https://github.com/willwang-x/workflow), [Growth mindset](https://willwang.cc/2018/10/tenet). 
 
 
 ## FQAs:
