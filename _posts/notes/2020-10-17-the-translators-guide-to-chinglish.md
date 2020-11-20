@@ -57,6 +57,28 @@ published: false
 
 原则好记，写来短短几句，但是仅仅知道原则是不够的。好的设计和好的句子不能只根据原则按图索骥，也不可能下笔有神，一蹴而就，而需要在实践中不停的打磨和淬炼。英语学习过程中，没有“顿悟”法门，只有“渐悟”一途，与君共勉。
  
+### Content
+
+* To the Reader
+* Part One: **Unnecessary** Words
+	* I. Unnecessary Nouns and Verbs
+	* II. Unnecessary Modifiers
+	* III. Redundant Twins
+	* IV. Saying the Same Thing Twice
+	* V. Repeated References to the Same Thing
+	* VI. Summing it All Up
+* Part Two: **Sentence Structure**
+	* VII. The Noun Plague
+	* VIII. Pronouns and Antecedents
+	* IX. The Placement of Phrases and Clauses
+	* X. Dangling Modifiers
+	* XI. Parallel Structure
+	* XlI. Logical Connectives
+	* XIII. Summing it All Up
+* Part Three: **Supplementary** Examples
+* Key to Exercises
+* Selected Bibliography
+
 
 ## More
 
