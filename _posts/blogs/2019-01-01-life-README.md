@@ -13,13 +13,11 @@ published: true
 
 [uptated](https://github.githistory.xyz/willwang-x/willwang-x.github.io/blob/master/_posts/blogs/2019-01-01-life-README.md) 2020.11.20
 
+<br>
+<br>
+
 <center>
-<div>
-	<a href="https://i.imgur.com/4hNv6NE.jpg">
-  <img src="https://i.imgur.com/4hNv6NE.jpg" alt="2015.11.03对自己人生的思考" width=42%">
-  </a>
-  <br><br>
-</div>
+<img src="https://i.imgur.com/4hNv6NE.jpg" alt="2015.11.03对自己人生的思考" width=42%">
 </center>
 
 <center style="color: gray"> 一些想法@2015.11</center>
