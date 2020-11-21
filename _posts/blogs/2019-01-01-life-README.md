@@ -16,7 +16,7 @@ published: true
 <br>
 <br>
 
-<img src="https://i.imgur.com/4hNv6NE.jpg" alt="2015.11.03对自己人生的思考" width=42%">
+![2015.11.03对自己人生的思考](https://i.imgur.com/4hNv6NE.jpg)
 
 <center style="color: gray"> 一些想法@2015.11</center>
 
@@ -90,15 +90,6 @@ Worldly happiness is reward from our evolutionary program. Get praise, money, dr
 	
 ## 2 
 
-<center>
-<div>
-	<a href="https://i.imgur.com/zC2cFzo.png">
-  <img src="https://i.imgur.com/zC2cFzo.png" alt="action-4.0" width=42%">
-  </a>
-  <br><br>
-</div>
-</center>
-	
 搞清楚了关键词，那如何去做呢？大概两个方向，提高**认知**和优化**行动**，即主题系列和清单系列。
 	
 ### 主题系列
@@ -152,6 +143,11 @@ Worldly happiness is reward from our evolutionary program. Get praise, money, dr
 有一次我站在4楼的天台，与我视线平行的是，楼前的一棵树，当时莫名地感概：呀，10年前，你都没有我手掌大呀！
 
 这句感慨，一直在大脑中挥之不去。以至于我的人生目标，想探索成为一棵树！
+
+<br>
+
+![action-4.1](https://i.imgur.com/zC2cFzo.png)
+
 	
 <br>
            
