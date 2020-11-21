@@ -16,9 +16,7 @@ published: true
 <br>
 <br>
 
-<center>
 <img src="https://i.imgur.com/4hNv6NE.jpg" alt="2015.11.03对自己人生的思考" width=42%">
-</center>
 
 <center style="color: gray"> 一些想法@2015.11</center>
 
@@ -127,9 +125,7 @@ Worldly happiness is reward from our evolutionary program. Get praise, money, dr
 	
 人生，本质上，是一个时间函数。世界在你到来和离开有什么不一样呢？
 
-人生的基石是**能力**，如果能力是一个飞船，那么**知识**和**工具**就是两个强有力的助推器。飞船所开向的方向，即是人生目标。所以，你要在人生地图中，定位好你的**目标**。
-		
-据此，Will把清单系列分为内和外。	
+人生的基石是**能力**，如果能力是一个飞船，那么**知识**和**工具**就是两个强有力的助推器。飞船所开向的方向，即是人生目标。所以，你要在人生地图中，定位好你的**目标**。据此，Will把清单系列分为内和外。	
 	
 		
 内:	阅读 → {技能+工具} → 品质 → 目标
