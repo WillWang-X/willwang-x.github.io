@@ -9,7 +9,12 @@ published: true
 ---
 
 <br>
-[Updated](https://github.githistory.xyz/willwang-x/willwang-x.github.io/blob/master/_posts/blogs/2020-08-03-star-pocket.md): 2020.11.05
+
+<div style="color: gray">
+<a src="https://github.githistory.xyz/willwang-x/willwang-x.github.io/blob/master/_posts/blogs/2020-08-03-star-pocket.md"> Last Updated </a> 
+<span> : 2020.11.23  </span>
+</div>
+
 
 ![will's exmaple](https://i.imgur.com/pgLa1rR.png)
 	
@@ -44,7 +49,7 @@ published: true
 	
 在生活磁场里，难免乱了节拍，晃了神情，丢了初心。不顺时，方法总是有的，但心气不常在。
 	
-所以，突然察觉，让自己时常浸泡在自己「感动又感动」的人事物书影音里，会是一个保护自己节拍，心气，热情的好方法。因为这会让自己处理「聚集」的状态里，而非「分散」。
+所以，突然察觉，让自己时常浸泡在自己「感动又感动」的人事物书影音里，会是一个保护自己节拍，心气，热情的好方法。因为这会让自己处于「聚集」，而非「分散」的状态里。
 		
 原想说，有乍见之欢，又久处不厌，多幸运。想了想，更准确的说法，其实就是「感动了一遍又一遍」才是那些构成你内核的东西。
 	
@@ -54,7 +59,7 @@ published: true
 	
 ## 4
 
-最后，也渐渐笃定，去好好打理那些让自己感动又感动的人事物书影音，好好把他们放在生活中看得见的位置，因为，似乎本质上，我们一生就是在寻找那些能让我们感动一遍又一遍，然后可以与之度过一天又一天，平静而喜悦。
+最后，也渐渐笃定，去好好打理那些让自己感动又感动的人事物书影音，好好把他们放在生活中看得见的位置，因为，似乎本质上，我们一生就是在寻找那些能让我们感动一遍又一遍，然后与之度过一天又一天，平静而喜悦。
 
 
 <br>
