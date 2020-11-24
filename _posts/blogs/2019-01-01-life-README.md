@@ -11,7 +11,7 @@ published: true
 <br>
 
 <div style="color: gray">
-<a src="https://github.githistory.xyz/willwang-x/willwang-x.github.io/blob/master/_posts/blogs/2019-01-01-life-README.md" style="color: gray"> Last Updated </a> 
+<a src="https://github.githistory.xyz/willwang-x/willwang-x.github.io/blob/master/_posts/blogs/2019-01-01-life-README.md"> Last Updated </a> 
 <span> : 2020.11.23  </span>
 </div>
 
