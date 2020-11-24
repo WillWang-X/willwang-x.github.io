@@ -16,7 +16,7 @@ published: true
 <br>
 <br>
 
-![2015.11.03对自己人生的思考](https://i.imgur.com/4hNv6NE.jpg)
+![2015.11.03对自己人生的思考](https://i.imgur.com/AePcqo2.png)
 
 <center style="color: gray"> 一些想法@2015.11</center>
 
@@ -140,13 +140,12 @@ Worldly happiness is reward from our evolutionary program. Get praise, money, dr
 	
 ## 3
 	
-有一次我站在4楼的天台，与我视线平行的是，楼前的一棵树，当时莫名地感概：呀，10年前，你都没有我手掌大呀！
+有一次我站在4楼的天台，与我视线平行的是，楼前的一棵树，当时莫名地感概：呀，10年前，这个树都没有我手掌大呀！
 
-这句感慨，一直在大脑中挥之不去。以至于我的人生目标，想探索成为一棵树！
+这句太过简单的感慨，却一直在大脑中挥之不去。以至于我的人生目标，想探索成为[一棵树](https://i.imgur.com/zC2cFzo.png)！
 
 <br>
 
-![action-4.1](https://i.imgur.com/zC2cFzo.png)
 
 	
 <br>
