@@ -30,7 +30,7 @@ published: false
 
 > The link could be images or source
 
-[Sexual Fantasies](https://www.netflix.com/watch/81160763)
+### [Sexual Fantasies](https://www.netflix.com/watch/81160763)
 
 * **Background**: 
 	* According to his survey, [97%](https://i.imgur.com/DpSQIPh.png) of American adults have had a sexual fantasy, as in imagined an arousing sexual scenario. Eighty-seven percent have at least one a week. And [52%](https://i.imgur.com/rCSSJ0S.png) have at least one a day. 52% And though we might think our fantasies are super weird and unique... By and large, most people, regardless of gender, are fantasizing about the same things.
@@ -48,7 +48,7 @@ published: false
 	* There's a very safe way to work through all fetishes and all kinds of ideas and kinks through [BDSM](https://i.imgur.com/rOlDZyn.png). It's actually a wonderful way to do that. It's one of the great things about sexuality. It can bring us **closer** in a way that maybe other forms of communication can't.
 
 
-[Attraction](https://www.netflix.com/watch/81062193)
+### [Attraction](https://www.netflix.com/watch/81062193)
 
 * Q: Why are we attracted to some people... and not others?
 * A: According to the latest research,	‎attraction mostly comes down to four main pillars:
@@ -83,11 +83,61 @@ published: false
 	* [The New York Times](https://i.imgur.com/Cicxvzt.png) (2015): [The 36 Questions That lead to love](https://www.nytimes.com/2015/01/09/style/no-37-big-wedding-or-small.html)
 	* [cosmopolitan](https://i.imgur.com/451dlqb.png) (2017): [12 steps to make someone fall in love](https://www.cosmopolitan.com/uk/love-sex/sex/tips/g558/12-steps-make-him-love-you/)
 
----
-* Attraction
-* Birth Control
-* Fertility
-* Childbirth
+
+### Birth Control
+
+### [Fertility](https://www.netflix.com/watch/81062196)
+
+#### Q: Where do babies come from?
+
+A: 
+
+*  "spermists" vs "ovists" for 100 years until both theories died with more powerful **microscopes**.
+	* 17th-century Dutch scientist's sketch of a "homunculus"
+	* the miniature human actually lived in the egg, not the sperm.
+* in the 19th century, a German zoologist discovered how babies are really made: **a sperm and an egg fusing together**, each playing an equal role.
+
+#### Q: How to have a baby?
+
+A: You're better off just having intercourse regularly, **three times a week at least**. After intercourse, the sperm are good for about three days in the female's tract.	So, you always want to have sperm there when you ovulate.
+
+And that's because fertilization isn't a sperm battle royal, And that's because fertilization isn't a sperm battle royal, a frantic sprint between millions of aggressive sperm to penetrate the egg. It's more like the labyrinth in the 1986 classic Labyrinth: **full of obstacles that sometimes hurt and sometimes help.**
+
+#### Q: What is infertile?
+
+A: And when a couple has tried for **a year** with no success, most health officials consider them infertile.
+In 2017, some doctors changed the definition to an **impairment** of a person's capacity to reproduce either as an individual or with his or her partner." Which may lead the way to **broader access** to treatments.
+
+#### Q: Why infertile?
+
+A: 
+
+* Famale: stress, Fast food and others
+	* There is a connection between a woman's **stress** and her ability to get pregnant.
+	* **Fast food** could be slowing down how quickly some women become pregnant.
+	* [3](https://i.imgur.com/eQkn7ho.png): ovulation idsorder, damaged fallopian tube, damaged uterine lining
+* Male: 40%, infertility basically comes down to one thing: **sperm**.
+	* **temporarily**: hot tubs, too-tight underwear, excessive masturbation
+	* **lasting**: steroids, accidental exposure to chemicals, **plastics** 
+		* the average man today has [half](https://i.imgur.com/G6dNx14.png) the sperm his grandfather did.
+* General: age
+	* male: It takes older men longer to get their partners pregnant especially after they turn 45, and that's controlling for their partner's age. ( [Impact of age on male fertillity](https://i.imgur.com/G6dNx14.png) )
+
+#### Q: How to solve infertility issue?
+
+A:
+
+* intrauterine insemination 
+* in vitro fertilization or **IVF**, since 1978, [IVF birth rates by age](https://i.imgur.com/sd3EzMs.png), [average cost of single IVF cycle](https://i.imgur.com/bGZSDJd.png)
+* Intracytoplasmic sperm injection or **ICSI**, since 1990s
+* insurance policy: 
+	* freeze a ton of **eggs**, [97% success = 40 eggs](https://i.imgur.com/aavEd9g.png). I think it's unfortunate that it's become commercialized. So, there's a lot of really kind of atrocious marketing going on.  
+	* freezing a piece of their **ovaries**.  Doctors hope that one day
+this could be a mainstream therapy.
+
+### Childbirth
+
+
 
 <br>
 <br>
