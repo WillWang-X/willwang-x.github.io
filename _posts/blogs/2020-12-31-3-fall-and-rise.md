@@ -68,7 +68,7 @@ published: true
 
 像是上了一辆不靠站的车，进入了一种忙碌而无法停下来的状态。大概就是 Scarcity: Why Having Too Little Means So Much 书中所描述的精神状态，有点失控的感觉。
 
-后来骑上了单车，和朋友的「一周一园」又带给我了许多治愈。最最最重要的是我终于搭建好了我的[workflow 1.0](https://github.com/willwang-x/workflow)，找到了长期稳定高效给我的树传输养的方式。恰好也遇到了想要一起交流的小伙伴，疫情期间开着的Starbucks Reserve简直是lifesaver。在我能够完全治愈前，不得不感谢星巴克。
+后来骑上了单车，和朋友的「一周一园」又带给我了许多治愈。最最最重要的是我终于搭建好了我的[workflow 1.0](https://github.com/willwang-x/workflow)，找到了**长期稳定高效给我的树传输养的方式**。恰好也遇到了想要一起交流的小伙伴，疫情期间开着的Starbucks Reserve简直是lifesaver。在我能够完全治愈前，不得不感谢星巴克。
 
 所以，在这个秋末冬初，我到达了我的第三个山丘，找到了我的安全感和信心，「笃定」也开出了一朵小红花。
 
