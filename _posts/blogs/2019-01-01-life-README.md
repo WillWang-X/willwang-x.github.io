@@ -10,7 +10,7 @@ published: true
 
 <br>
 
-[Last Updated](https://github.githistory.xyz/willwang-x/willwang-x.github.io/blob/master/_posts/blogs/2019-01-01-life-README.md)<span style="color: gray"> : 2020.11.23  </span>
+[Last Updated](https://github.githistory.xyz/willwang-x/willwang-x.github.io/blob/master/_posts/blogs/2019-01-01-life-README.md)<span style="color: gray"> : 2021.03.30  </span>
 
 
 <br>
@@ -44,7 +44,7 @@ published: true
 	
 ### 美好
 
-> “种种人生**困惑**，随着人类的三种基本心理需求而波动。第一种是**自主**，你掌握你的生活；第二种是**胜任**，你能胜任自己从事的工作，并从中能获得愉快反馈；第三种是**归属**，你能够与别人建立稳定、持续的人际关系或者亲密关系。“  - [三十六惑](https://www.yangzhiping.com/psy/36Birthday.html)
+> “种种人生**困惑**，随着人类的三种基本心理需求而波动。第一种是**[自主](https://www.wikiwand.com/en/Autonomy)**，你[掌握](https://www.wikiwand.com/en/Control_(psychology))你的生活；第二种是**[胜任](https://www.wikiwand.com/en/Competence_(human_resources))**，你能胜任自己从事的工作，并从中能获得愉快反馈；第三种是**[归属](https://www.wikiwand.com/en/Belongingness)**，你能够与别人建立稳定、持续的人际关系或者亲密关系。“  - [三十六惑](https://www.yangzhiping.com/psy/36Birthday.html)
 
 兜兜转转，才发现大道至简，**真善美**才是人间至味。善为内，美为外，真添其味。就如真实有万钧之力，说话最难在于准确，准确需要足够的了解，判断的知识，表达的能力，客观的态度。真相常流失于涕泪交加中，慢一点，再慢一点，让[情绪](https://book.douban.com/subject/30443490/)褪去之后，再带着情绪去表达。
 	
@@ -85,7 +85,7 @@ Worldly happiness is reward from our evolutionary program. Get praise, money, dr
 
 > "**简单**，就是拥有极少，把空间留给**必需和精华**。简单，让生活摆脱使人精力分散、紧张不安的偏见、拘束和压力，为我们提供很多问题的解决方法。不要再拥有过多的东西，你将省出更多时间来关注自己的身体。当对自己的身体感觉良好时，就能忘记肉体的存在，专注于精神发展，达到充满意义的生命状态。你将感到更加幸福。" - [简单的艺术](https://m.douban.com/book/subject/11620497/)
 
-人生有限，必须有所取舍，有所侧重，既然精力有限，世界越纷杂，**精简**越可贵。**逃离物质生活的挑拨，逃离信息世界的关注。** 但如[Jony Ive](https://www.youtube.com/watch?v=4xzLr7xSr-g)所言，真正的简约远不止删繁就简，而是在纷繁中创建**秩序**。
+人生有限，必须有所取舍，有所侧重，既然精力有限，世界越纷杂，**精简**越可贵。**逃离物质生活的挑拨，逃离信息世界的关注。** 但如[Jony Ive](https://youtu.be/4xzLr7xSr-g?t=46)所言，真正的简约远不止删繁就简，而是在纷繁中创建**秩序**。
 
 	
 ## 2 
