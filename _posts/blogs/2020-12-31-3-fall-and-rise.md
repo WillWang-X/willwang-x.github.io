@@ -9,10 +9,15 @@ published: true
 ---
 
 <br>
+<br>
+
+![三本耀司-自己](https://i.imgur.com/UxKjNlF.jpg)
+
+<center><font color="grey"> Yohji Yamamoto </font>  </center>
 
 
 <br>
-
+<br>
 
 形容一下你的2020？
 
