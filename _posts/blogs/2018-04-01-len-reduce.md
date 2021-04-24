@@ -79,21 +79,7 @@ Many uses of reduce() are clearer when written as for loops.
 
 而关于效率，不是更短的实现，就是更好的实现。len()的短让人易读，感到美；而reduce的短，却让花更多时间去理解。
 
-在Zen of Python 写道：In the face of ambiguity, refuse the temptation to guess. There should be one-- and preferably only one --obvious way to do it.
-
-
-
-# 感谢
-
-
-1. [Method chaining - why is it a good practice, or not?](https://stackoverflow.com/questions/1103985/method-chaining-why-is-it-a-good-practice-or-not/) : 为什么方法链更好
-1. [18条程序设计原则](http://xuwenzhi.com/2015/12/23/%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99/): 如不要过早优化
-1. [What is the principle of least astonishment?](https://softwareengineering.stackexchange.com/questions/187457/what-is-the-principle-of-least-astonishment) : 最小惊讶原则在设计API的应用
-1. [Rails 信条](http://rubyonrails.org/doctrine/zh_cn#no-one-paradigm) : 最小惊讶原则的例子
-1. [List of software development philosophies](https://www.wikiwand.com/en/List_of_software_development_philosophies) : 软件设计思想清单
-1. [Human interface guidelines](https://www.wikiwand.com/en/Human_interface_guidelines) : 人机交互指南
-1. [On Programming Languages as Languages](http://www.labazhou.net/2014/12/programming-languages-as-languages/) : 开放关闭设计
-1. [Python's Design Philosophy](http://python-history.blogspot.com/2009/01/pythons-design-philosophy.html) : Python设计哲学
+在 Zen of Python 写道：In the face of ambiguity, refuse the temptation to guess. There should be one -- and preferably only one -- obvious way to do it.
 
 
 
