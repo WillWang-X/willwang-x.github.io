@@ -22,9 +22,9 @@ published: true
 
 ## 0 
 	
-在 2018 年的最后一天听了三个故事：
+在 2018 年最后一天听了三个故事：
 	
-* 故事1: 在听某交响乐认识的[女生](https://i.imgur.com/Krl1XQ3.jpg)，本科医学来 LA 读电影，在 2018 年刚拿到自己电影的1st award. 
+* 故事1: 在听某交响乐认识的[女生](https://i.imgur.com/Krl1XQ3.jpg)，本科医学来 LA 读电影，在 2018 年刚拿到自己电影的 1st award. 
 * 故事2: 有过几面之缘的校友，在 2018 年拿到了心仪的 offer，leader 是 NLP 界的李飞飞。来 USC 第一年就选了 NLP 的课程，一心想搞 NLP，终如愿。
 * 故事3: 初中时听的某歌手的[成长故事](https://mp.weixin.qq.com/s/jR1JNp2Myr8KXF7n2GeP_Q)。
 	
@@ -58,6 +58,7 @@ Worldly happiness is reward from our evolutionary program. Get praise, money, dr
 
 **Internal** happiness is reward from being in **flow**. Create, mediate, love, play. It **clears** the mind & leaves us in **peace**. 
 
+如果有选择，请把时间放在获得内在和大尺度的幸福上。
 
 ### 靠谱
 
@@ -65,7 +66,7 @@ Worldly happiness is reward from our evolutionary program. Get praise, money, dr
 
 靠谱背后是什么呢？是长期而持续的积累、设计与迭代。
 
-* 积累是去记录经历，形成经验，让别人可**复现**的**清单**。
+* 积累是记录经历，形成经验，创造可**复现**的**清单**。
 * 设计是把清单们**重构**，得到简洁、直觉、彼此**连接**的**系统**。
 * 迭代是查漏补缺，螺旋上升, 是 1.01^365 = 37.8。
 
@@ -85,22 +86,22 @@ Worldly happiness is reward from our evolutionary program. Get praise, money, dr
 
 > "**简单**，就是拥有极少，把空间留给**必需和精华**。简单，让生活摆脱使人精力分散、紧张不安的偏见、拘束和压力，为我们提供很多问题的解决方法。不要再拥有过多的东西，你将省出更多时间来关注自己的身体。当对自己的身体感觉良好时，就能忘记肉体的存在，专注于精神发展，达到充满意义的生命状态。你将感到更加幸福。" - [简单的艺术](https://m.douban.com/book/subject/11620497/)
 
-人生有限，必须有所取舍，有所侧重，既然精力有限，世界越纷杂，**精简**越可贵。**逃离物质生活的挑拨，逃离信息世界的关注。** 但如[Jony Ive](https://youtu.be/4xzLr7xSr-g?t=46)所言，真正的简约远不止删繁就简，而是在纷繁中创建**秩序**。
+人生有限，必须有所取舍，有所侧重。精力有限，世界越纷杂，**精简**越可贵。**逃离物质生活的挑拨，逃离信息世界的关注。** 但如 [Jony Ive](https://youtu.be/4xzLr7xSr-g?t=46) 所言，真正的简约远不止删繁就简，而是在纷繁中创建**秩序**。
 
 	
 ## 2 
 
-搞清楚了关键词，那如何去做呢？大概两个方向，提高**认知**和优化**行动**，即主题系列和清单系列。
+搞明白了人生关键词，那如何去做呢？大概两个方向，提高**认知**和优化**行动**，即主题系列和清单系列。
 	
 ### 主题系列
 	
 > 认知塑造并影响着价值观的有效性，价值观决定你的选择，而选择和时空背景决定着你的命运走向。认知对象无非就是**自己**和**世界**。
 	
-一个简单的问题：想成为世界的一部分，还是让世界成为你的一部分？
+一个简单但可以经常思考的问题：你想成为世界的一部分，还是让世界成为你的一部分？
 
 在这之前，把主题系列，分为 ME 系列(自己)和 TC 系列(世界)。
 	
-- ME 系列: 因为了解[自己](https://www.wikiwand.com/en/Outline_of_self)是解决问题的关键。
+- ME 系列: 因为了解[自己](https://www.wikiwand.com/en/Outline_of_self)几乎是解决任何重大问题的关键前提。
 - TC 系列: Take care of your life & your life will take care of you. 分为 5 点：
 	- **身体**: 肉体是每个人的神殿，不管里面供奉的是什么，都应该好好保持它的强韧、美丽和清洁。
 	- **思维**: 说到底，人与人的差距，是认知水平的差距。
@@ -129,11 +130,11 @@ Worldly happiness is reward from our evolutionary program. Get praise, money, dr
 
 <br>
 
-外: 见自己(数据 & 物品)，见天地(人和世界)，见众生(作品和成就)
+外: 见自己 (数据 & 物品)，见天地 (人和世界)，见众生 (作品和成就)
 
 - 数据清单：我积累了哪些数据？[]([Instagram](https://www.instagram.com/will.will.wang/)，[豆瓣](https://www.douban.com/people/lanluotiankong/)，[Github](https://github.com/willwang-x)，[微博](https://weibo.com/aibutong/))
 - 物品清单：我需要多少东西？ 
-- 感谢清单：感谢你所遇到人，因为温暖来源于此。
+- 感谢清单：感谢你所遇到人，人生漫长，温暖来源于此。
 - 旅行清单：文化和自然的奇妙，远不是单一的视觉可以感知的。
 - 作品清单：人生在世，最重要的是用作品讲话。
 - 成就清单：我对世界做了什么贡献？
