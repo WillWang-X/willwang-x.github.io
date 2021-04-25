@@ -10,7 +10,7 @@ published: true
 
 <br>
 
-[Last Updated](https://github.githistory.xyz/willwang-x/willwang-x.github.io/blob/master/_posts/blogs/2019-01-01-life-README.md)<span style="color: gray"> : 2021.03.30  </span>
+[Last Updated](https://github.githistory.xyz/willwang-x/willwang-x.github.io/blob/master/_posts/blogs/2019-01-01-life-README.md)<span style="color: gray"> </span>
 
 
 <br>
@@ -34,7 +34,7 @@ published: true
 
 对，需要给自己写一个**README**! 
 
-要一览无余，就像人生之书的**目录**，时常查阅，提醒自己。因为，人啊，常常会被各种细节牵引，被琐事缠绕，被旁人影响，而忘了「主线」，误了「正事」，藏了「个性」。所以，以此发愿，要活得坦荡荡，敢爱敢恨，不卑不亢，向上进取于[专业化](https://github.com/willwang-x/)，向下立足于[生活](https://www.instagram.com/will.will.wang/)，成为一个美好的人，幸福靠谱聪明简单。
+要一览无余，就像人生之书的**目录**，时常查阅，提醒自己。因为，人啊，常常会被各种细节牵引，被琐事缠绕，被旁人影响，而忘了「主线」，误了「正事」，藏了「个性」。所以，以此发愿，要活得坦荡荡，敢爱敢恨，不卑不亢，向上进取于[专业化](https://github.com/willwang-x/)，向下立足于[生活](https://www.instagram.com/)，成为一个美好的人，幸福靠谱聪明简单。
 
 嗯，就起名「**一生所爱**」。
 	
