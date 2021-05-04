@@ -37,6 +37,8 @@ published: true
 
 > The most lasting and effective way to change your life is to change who you’re surrounded by. - [hacker news](https://news.ycombinator.com/item?id=22102726)
 
+雪场其次。
+
 除了天赋和努力外，环境是成长的最大影响因子。
 
 好的环境是适合你的环境。就[雪况](https://i.imgur.com/XmEtIQ9.png)而言，Corduroy 适合刻滑 (Carving)；Powder (粉雪) 适合新手和各种雪地冒险。Slush (半融雪) 部分适合跳跃练习，Hard-Pack 适合速滑。比如，第一次单板，如果没有遇到鹅毛大雪的 Mt Baker，我是不敢做太多大胆尝试，在这个全新未知的运动上。
@@ -51,9 +53,10 @@ published: true
 
 ## 3 风险
 
+![](https://i.imgur.com/n6xyZtP.gif)
+
 > 如果我知道我将死在哪里，那我绝对不会到那里去！ -- 查理芒格 
 
-![](https://i.imgur.com/n6xyZtP.gif)
 
 滑雪风险主要有三：
 
