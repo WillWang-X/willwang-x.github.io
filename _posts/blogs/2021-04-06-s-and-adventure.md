@@ -37,7 +37,7 @@ published: true
 
 > The most lasting and effective way to change your life is to change who you’re surrounded by. Choose your friends, work and company wisely becase they will become your destiny. - [hacker news](https://news.ycombinator.com/item?id=22102726)
 
-雪场为大。
+环境为大。
 
 除了天赋和努力外，环境是成长的最大影响因子。
 
