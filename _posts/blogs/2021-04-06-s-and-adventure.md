@@ -1,6 +1,6 @@
 --- 
 layout: post
-title: 滑雪和冒险
+title: 滑雪与冒险
 tags: 
 - lifetime
 status: publish
