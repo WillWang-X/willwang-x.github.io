@@ -35,6 +35,7 @@ published: true
 
 ## 2 雪场
 
+
 > The most lasting and effective way to change your life is to change who you’re surrounded by. Choose your friends, work and company wisely becase they will become your destiny. - [hacker news](https://news.ycombinator.com/item?id=22102726)
 
 环境为大。
@@ -65,7 +66,7 @@ published: true
 
 ## 4 学习
 
-[](https://i.imgur.com/hcqo2oK.gif)
+![](https://i.imgur.com/hcqo2oK.gif)
 
 > 突然发现 ZJ 做得好的核心高管都是通过收购买来的创业者。这些人共同的特点就是敢想敢干。自己操盘过一件事。因为生死攸关，不会迷信框架和他人的判断。因为痛过，也不会盲目自信。- 某人 [](Linkedin Weixu)
 
@@ -75,7 +76,7 @@ published: true
 
 就学习方式而言，水晶山滑雪场有一处，从坐缆车处再回到此处，只需要 10 分钟左右，可以同时练习大坡和小坡，练习效率奇高。两人一同，跳坡时录像，缆车上看回放，讨论出现的问题，看教学视频找解答，找到下次改善的地方。以此往复，感觉进步巨快。
 
-另外，常见的一大学习障碍，其实不是来自外界，而是内在。因为「道听途说」，形成了一些关于滑雪的**[预设](https://www.wikiwand.com/en/Assumption#/Logic)**。殊不知，每一个预设，都是一处看不见的引力，让人莫名其妙地摔跤，却不知道“凶手”是自己。
+另外，常见的一大学习障碍，其实不是来自外界，而是内在。因为「[道听途说](https://www.baike.com/wiki/%e4%bb%b7%e5%80%bc%e6%b5%81%e7%a8%8b%e5%9b%be?view_id=1zizsnn8bco000#catalog_8_3)」，形成了一些关于滑雪的**[预设](https://www.wikiwand.com/en/Assumption#/Logic)**。殊不知，每一个预设，都是一处看不见的引力，让人莫名其妙地摔跤，却不知道“凶手”是自己。
 
 ## 5 准备
 
@@ -100,6 +101,8 @@ published: true
 人生有时就是这样，「吃着火锅唱着歌，突然就被马匪给劫了。」避免日后亡羊补牢的奔波，则需常做防微杜渐的更新。
 
 ## 7 节奏
+
+![](https://i.imgur.com/sYtKyEr.gif)
 
 > Where I come from we say that rhythm is the soul of life, because the whole universe revolves around rhythm, and when we get out of rhythm, that’s when we get into trouble. - Babatunde
 
