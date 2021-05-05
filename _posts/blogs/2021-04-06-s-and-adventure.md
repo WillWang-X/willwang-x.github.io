@@ -65,7 +65,7 @@ published: true
 
 ## 4 学习
 
-![](https://i.imgur.com/hcqo2oK.gif)
+[](https://i.imgur.com/hcqo2oK.gif)
 
 > 突然发现 ZJ 做得好的核心高管都是通过收购买来的创业者。这些人共同的特点就是敢想敢干。自己操盘过一件事。因为生死攸关，不会迷信框架和他人的判断。因为痛过，也不会盲目自信。- 某人 [](Linkedin Weixu)
 
