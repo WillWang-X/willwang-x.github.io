@@ -71,7 +71,7 @@ published: true
 
 就学习滑雪的一个切面而言，学习输入要系统靠谱（learn from the best）；学习方式要有效连接，及时纠错和大量重复。
 
-就学习输入而言，之前一直不敢跳跃，做一些尝试，感觉不得要领。但通过 [Shaun White](https://app.theskills.com/courses/shaun-white-teaches-snowboarding-creativity-more) （三届冬奥会单板滑雪男子 U 型池金牌得主） 系统课程的一个片段，仅仅 5 分钟，就让人抓住了关键，便想着跃跃欲试，于是在第 11 次就学会了公园跳跃。
+就学习输入而言，之前一直不敢跳坡，做了几次，感觉不得要领。但通过 [Shaun White](https://app.theskills.com/courses/shaun-white-teaches-snowboarding-creativity-more) （三届冬奥会单板滑雪男子 U 型池金牌得主） 系统课程的一个片段，仅仅 5 分钟，就让人抓住了关键，便想着跃跃欲试，于是在第 11 次就学会了公园跳跃。
 
 就学习方式而言，Crystal Mountian 有一处，从坐缆车处再回到此处，只需要10分钟左右，可以同时练习大坡和小坡，练习效率奇高。两人一同，跳坡时录像，缆车上看回放，讨论出现的问题，看教学视频找解答，找到下次改善的地方。以此往复，感觉进步巨快。
 
