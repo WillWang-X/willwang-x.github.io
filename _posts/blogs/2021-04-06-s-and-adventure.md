@@ -12,7 +12,7 @@ published: true
 <br>
 <br>
 
-![](https://i.imgur.com/XKE2Rq2.jpg)
+![](https://i.imgur.com/NiDgxf7.jpg)
 
 <br>
 <br>
