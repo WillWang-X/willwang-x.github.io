@@ -41,7 +41,7 @@ published: true
 
 除了天赋和努力外，环境是成长的最大影响因子。
 
-好的环境是适合你的环境。就[雪况](https://i.imgur.com/XmEtIQ9.png)而言，Corduroy 适合刻滑；Powder (粉雪) 适合新手和各种雪地冒险；Hard-Pack 适合速滑。比如，第一次单板，如果没有遇到超级粉雪的[贝克山滑雪场](https://www.wikiwand.com/en/Mt._Baker_Ski_Area)，我是不敢大胆尝试，在这个全新未知的运动上。
+好的环境是适合你的环境。就[雪况](https://i.imgur.com/XmEtIQ9.png)而言，[Corduroy](https://www.wikiwand.com/en/Classifications_of_snow#/Ski_resort_classification) 适合刻滑；Powder (粉雪) 适合新手和各种雪地冒险；Hard-Pack 适合速滑。比如，第一次单板，如果没有遇到超级粉雪的[贝克山滑雪场](https://www.wikiwand.com/en/Mt._Baker_Ski_Area)，我是不敢大胆尝试，在这个全新未知的运动上。
 
 当然，除了雪况，还有雪场。比如，如果没有遇到[惠斯勒黑梳山](https://www.wikiwand.com/en/Whistler_Blackcomb)宽广漫长坡度适合的粉雪绿道，我可能不会第二次就学会换刃基础。如果没有遇到[巴奇勒山滑雪场](https://www.wikiwand.com/en/Mount_Bachelor_ski_area)的超级粉雪，我是不敢第 10 次就穿越小树林。
 
