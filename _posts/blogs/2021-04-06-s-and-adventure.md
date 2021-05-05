@@ -27,7 +27,7 @@ published: true
 
 ## 1 摔跤
 
-![](https://i.imgur.com/nvTu1AE.png)
+[](https://i.imgur.com/nvTu1AE.png)
 
 安全第一。
 
