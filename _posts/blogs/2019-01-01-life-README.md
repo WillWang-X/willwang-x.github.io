@@ -52,11 +52,11 @@ published: true
 
 > 幸福的时间尺度：秒时间尺度上生发的**愉悦**、分钟小时时间尺度上生发的**专注**、超越时间尺度上生发的**意义**。- [三生有幸](https://book.douban.com/subject/27663156/)
 
-幸福有尺度，幸福也有内外，如[naval](https://twitter.com/naval/status/1053206878157627392?lang=en)所言：
+幸福有尺度，幸福也有内外，如 [naval](https://twitter.com/naval/status/1053206878157627392?lang=en) 所言：
 
-Worldly happiness is reward from our evolutionary program. Get praise, money, drugs, sex. It busies the mind with craving & anxiety. 
+Worldly happiness is reward from our evolutionary program. Get praise, money, drugs, sex. It busies the mind with craving & anxiety.
 
-**Internal** happiness is reward from being in **flow**. Create, mediate, love, play. It **clears** the mind & leaves us in **peace**. 
+Internal happiness is reward from being in flow. Create, meditate, love, play. It clears the mind & leaves us in peace.
 
 如果有选择，请把时间放在获得内在和大尺度的幸福上。
 
