@@ -15,6 +15,11 @@ published: true
 
 <center><font color="grey"> Yohji Yamamoto </font>  </center>
 
+<br>
+<br>
+
+
+> 只有奄奄一息过 / 那个真正的我 / 他才能够诞生 - 《朴树 - No Fear in My Heart》
 
 <br>
 <br>
