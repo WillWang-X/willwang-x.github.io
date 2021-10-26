@@ -141,7 +141,7 @@ Internal happiness is reward from being in flow. Create, meditate, love, play. I
 	
 ## 3
 	
-最后，以《[生活的邀请函](https://www.douban.com/note/159974140/)》诗句结尾：
+最后，以《[邀请函](https://www.douban.com/note/159974140/)》结尾：
 
 > It doesn't interest me how old you are. I want to know if you will risk looking like a fool for love, for your dream, for the adventure of being alive. 
 > 
