@@ -141,9 +141,16 @@ Internal happiness is reward from being in flow. Create, meditate, love, play. I
 	
 ## 3
 	
-有一次我站在 4 楼的天台，与我视线平行的是，楼前的一棵树，当时莫名地感概：呀，10 年前，这个树都没有我手掌大呀！
+最后，以《[生活的邀请函](https://www.douban.com/note/159974140/)》诗句结尾：
 
-这句有点简单的感慨，却一直在大脑中挥之不去。以至于我的人生目标，想探索成为一棵树！
+> It doesn't interest me how old you are. I want to know if you will risk looking like a fool for love, for your dream, for the adventure of being alive. 
+> 
+> 你的年龄有多大，我不关心； 
+> 
+> 我想知道，为了爱，为了梦想，为了生机勃勃的奇遇， 
+> 
+> 你是否愿意像傻瓜一样冒险。 
+
 
 <br>
 
