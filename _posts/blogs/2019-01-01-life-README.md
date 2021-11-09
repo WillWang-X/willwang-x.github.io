@@ -16,10 +16,6 @@ published: true
 <br>
 <br>
 
-![2015.11.03对自己人生的思考](https://i.imgur.com/AePcqo2.png)
-
-<center style="color: gray"> 一些想法@2015.11</center>
-
 > 独一无二的自己和不可重来的此生，假如不好好发挥作用的话，岂不是枉费了生而为人的意义了吗？ - [木村秋则](https://www.wikiwand.com/ja/%E6%9C%A8%E6%9D%91%E7%A7%8B%E5%89%87)
 
 
