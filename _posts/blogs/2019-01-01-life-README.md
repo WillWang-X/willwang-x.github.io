@@ -90,7 +90,7 @@ Internal happiness is reward from being in flow. Create, meditate, love, play. I
 
 「[熵增定律](https://www.wikiwand.com/en/Second_law_of_thermodynamics)」指，在一个**孤立系统**里，如果**无外力做功**，其**总混乱度**（即熵）会不断增大。
 
-所以[问题](https://www.zhihu.com/question/27343287/answer/1184500866)变成，在一个系统中，如何从混沌无序高效走向有序？而研究这个规律的学科，叫做「[耗散结构理论](https://www.wikiwand.com/en/Dissipative_system)」。耗散结构核心特性是**开放性**，**远离平衡态**，**非线形**。最终达到熵减的终极方向智能化。概括而言，简单的功课是：
+所以[问题](https://www.zhihu.com/question/27343287/answer/1184500866)变成，在一个系统中，如何从混沌无序高效走向有序？而研究这个规律的学科，叫做「[耗散结构理论](https://www.wikiwand.com/en/Dissipative_system)」。耗散结构核心特性是**开放性**，**远离平衡态**，**非线形**。最终达到熵减的终极方向智能化。概括而言，秩序的科学启发是：
 
 * 主动做功
 * 开放系统
