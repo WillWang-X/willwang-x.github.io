@@ -20,6 +20,9 @@ published: true
 
 <center style="color: gray"> 一些想法@2015.11</center>
 
+> 独一无二的自己和不可重来的此生，假如不好好发挥作用的话，岂不是枉费了生而为人的意义了吗？ - [木村秋则](https://www.wikiwand.com/ja/%E6%9C%A8%E6%9D%91%E7%A7%8B%E5%89%87)
+
+
 ## 0 
 	
 在 2018 年最后一天听了三个故事：
@@ -88,13 +91,19 @@ Internal happiness is reward from being in flow. Create, meditate, love, play. I
 
 人生有限，必须有所取舍，有所侧重。精力有限，世界越纷杂，**精简**越可贵。**逃离物质生活的挑拨，逃离信息世界的关注。** 但如 [Jony Ive](https://youtu.be/4xzLr7xSr-g?t=46) 所言，真正的简约远不止删繁就简，而是在纷繁中创建**秩序**。
 
-所谓创建秩序，如薛定谔在《[生命是什么](https://www.wikiwand.com/en/What_Is_Life%3F)》所言：人活着就是在对抗**熵增定律**，生命以负熵为生。「[熵增定律](https://www.wikiwand.com/en/Second_law_of_thermodynamics)」指，在一个**孤立系统**里，如果**无外力做功**，其**总混乱度**（即熵）会不断增大。
+所谓创建秩序，如薛定谔在《[生命是什么](https://www.wikiwand.com/en/What_Is_Life%3F)》所言：「人活着就是在对抗**熵增定律**，生命以负熵为生。」[熵增定律](https://www.wikiwand.com/en/Second_law_of_thermodynamics)指，在一个**孤立系统**里，如果**无外力做功**，其**总混乱度**（即熵）会不断增大。
 
-所以[问题](https://www.zhihu.com/question/27343287/answer/1184500866)变成，在一个系统中，如何从混沌无序高效走向有序？而研究这个规律的学科，叫做「[耗散结构理论](https://www.wikiwand.com/en/Dissipative_system)」。耗散结构核心特性是**开放性**，**远离平衡态**，**非线形**。最终达到熵减的终极方向 -- 智能化。概括而言，秩序的[科学启发](http://www.ceconline.com/strategy/ma/8800098561/01/)是：
+所以[问题](https://www.zhihu.com/question/27343287/answer/1184500866)变成，在一个系统中，如何从混沌无序走向有序？
 
-* 主动做功
-* 开放系统
-* 智能化
+研究这个规律的学科，叫做「[耗散结构理论](https://www.wikiwand.com/en/Dissipative_system)」。耗散结构核心特性是**开放性**，**远离平衡态**，**非线形**。
+
+生命熵减，环境熵增，智能化变得必然。智能化意味着减少不确定性，即信息熵，从而减少能耗，让**注意力**留给必要与精华。
+
+简单背后的功课是：
+
+* **主动做功**：你的能量想要去哪里，优化还是救火？[逆水行舟，不进则退](https://willwang.cc/2021/11/su-shi-and-env)。做功以避免失控，主动以获得掌控。
+* **开放系统**：向内探索[书影音](https://willwang.cc/2020/08/star-pocket)，[远离舒适圈](https://willwang.cc/2021/04/s-and-adventure)；向外[碰撞](https://willwang.cc/2020/12/3-fall-and-rise)人事物，刺激认知。积累以获得时间的奖赏。
+* **智能生活**：复杂的事情简单化（单点），简单的事情标准化（局部），标准的事情流程化（全局），流程的事情自动化（上下游）。优化心智和物理工具，以降低不确定性。
 
 	
 ## 2 
