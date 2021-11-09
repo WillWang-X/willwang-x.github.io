@@ -81,6 +81,8 @@ Internal happiness is reward from being in flow. Create, meditate, love, play. I
 * 刻意练习
 * 自省以形成系统和直觉
 
+<br>
+
 ### 简单
 
 > "**简单**，就是拥有极少，把空间留给**必需和精华**。简单，让生活摆脱使人精力分散、紧张不安的偏见、拘束和压力，为我们提供很多问题的解决方法。不要再拥有过多的东西，你将省出更多时间来关注自己的身体。当对自己的身体感觉良好时，就能忘记肉体的存在，专注于精神发展，达到充满意义的生命状态。你将感到更加幸福。" - [简单的艺术](https://m.douban.com/book/subject/11620497/)
@@ -101,6 +103,7 @@ Internal happiness is reward from being in flow. Create, meditate, love, play. I
 * **开放系统**：向内探索[书影音](https://willwang.cc/2020/08/star-pocket)，[远离舒适圈](https://willwang.cc/2021/04/s-and-adventure)；向外[碰撞](https://willwang.cc/2020/12/3-fall-and-rise)人事物，刺激认知。积累以获得时间的奖赏。
 * **智能生活**：复杂的事情简单化（单点），简单的事情标准化（局部），标准的事情流程化（全局），流程的事情自动化（上下游）。优化心智和物理工具，以降低不确定性。
 
+<br>
 	
 ## 2 
 
