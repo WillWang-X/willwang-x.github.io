@@ -8,10 +8,6 @@ type: post
 published: true
 ---
 
-<br>
-
-[Last Updated](https://github.githistory.xyz/willwang-x/willwang-x.github.io/blob/master/_posts/blogs/2019-01-01-life-README.md)<span style="color: gray"> </span>
-
 
 <br>
 <br>
@@ -174,7 +170,7 @@ Internal happiness is reward from being in flow. Create, meditate, love, play. I
 	
 <br>
            
-[2019.01.01](https://github.githistory.xyz/willwang-x/willwang-x.github.io/blob/master/_posts/2019-01-01-life-README.md) 于洛杉矶 
+[2019.](https://github.githistory.xyz/willwang-x/willwang-x.github.io/blob/master/_posts/2019-01-01-life-README.md)[01.01](https://github.githistory.xyz/willwang-x/willwang-x.github.io/blob/master/_posts/blogs/2019-01-01-life-README.md) 于洛杉矶 
 
 
 <br>
