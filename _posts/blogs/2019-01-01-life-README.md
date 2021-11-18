@@ -113,7 +113,7 @@ Internal happiness is reward from being in flow. Create, meditate, love, play. I
 
 在这之前，把主题系列，分为 ME 系列(自己)和 TC 系列(世界)。
 	
-- ME 系列: 因为了解[自己](https://www.wikiwand.com/en/Outline_of_self)几乎是解决任何重大问题的关键前提。
+- ME 系列: 因为了解[自己](https://www.wikiwand.com/en/Outline_of_self)几乎是解决任何重大问题的关键前提。包括你的**本性**，[道德](https://www.wikiwand.com/en/Lawrence_Kohlberg%27s_stages_of_moral_development) / **价值观**，**审美**，模式。
 - TC 系列: Take care of your life & your life will take care of you. 分为 5 点：
 	- **身体**: 肉体是每个人的神殿，不管里面供奉的是什么，都应该好好保持它的强韧、美丽和清洁。
 	- **思维**: 说到底，人与人的差距，是认知水平的差距。
@@ -132,13 +132,12 @@ Internal happiness is reward from being in flow. Create, meditate, love, play. I
 人生的基石是**能力**，如果能力是一个飞船，那么**知识**和**工具**就是两个强有力的助推器。飞船所开向的方向，即是人生目标。所以，你要在人生地图中，定位好你的**目标**。据此，把清单系列分为内和外。	
 	
 		
-内:	阅读 → {技能+工具} → 品质 → 目标
+内: {知识 + 工具} → 能力 → 目标
 	
-* **目标**清单：留有[空间](https://book.douban.com/subject/26178426/)，保存对**未来长远规划**的思考，才是更重要的事情。	
-* **品质**清单：包括你的**本性**，[道德](https://www.wikiwand.com/en/Lawrence_Kohlberg%27s_stages_of_moral_development) / **价值观**，**审美**，模式。品质受环境影响，所以请找到适合自己的**环境**。
-* **技能**清单：核心驱动力和竞争力，一维突出，多维指数增长。建立自己的能力圈。
-* **工具**清单：外在提升的途径，**物质**基础。[最好的工具是物我合一](https://willwang.cc/2019/03/tools)。
-* **阅读**清单：内在提升的途径，**智慧**基础。[元&深&广&势&专](https://willwang.cc/2017/09/books)。
+* **目标**清单：人生之根本问题，精力凝聚之所在，纷繁世界之定力，朝夕之盼头。未知则迷，未明则惘，未定则殆。所以留有[空间](https://book.douban.com/subject/26178426/)，[三思](https://www.bilibili.com/video/BV1fp4y1D7FY/)而行，避免路径依赖，破解[危机](https://www.wikiwand.com/en/Quarter-life_crisis)，为必要之事。
+* **能力**清单：面对世界，解决问题的基石。建立自己的[能力圈](https://www.wikiwand.com/en/Circle_of_competence)，确定边界，学习迁移。
+* **工具**清单：外在提升的途径，**物质**基础。以[最好的工具是物我合一](https://willwang.cc/2019/03/tools)为指导，每日练习，迭代物理配置，优化所处环境。
+* **知识**清单：内在提升的途径，**心智**基础。以[元&深&广&势&专](https://willwang.cc/2017/09/books)为起点，构建[信息处理](https://www.wikiwand.com/en/Information_processing#/Bibliography)和[知识管理](https://www.wikiwand.com/en/Knowledge_management)系统，打磨[心智模块](https://www.hvst.com/posts/you-dont-need-intelligence-you-need-mindware-to-be-successful-oMWT69n9)。
 
 <br>
 
