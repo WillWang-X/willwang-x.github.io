@@ -137,7 +137,7 @@ Internal happiness is reward from being in flow. Create, meditate, love, play. I
 * **目标**清单：人生之根本问题，精力凝聚之所在，纷繁世界之定力，朝夕之盼头。未知则迷，未明则惘，未定则殆。所以留有[空间](https://book.douban.com/subject/26178426/)，[三思](https://www.bilibili.com/video/BV1fp4y1D7FY/)而行，避免路径依赖，破解[危机](https://www.wikiwand.com/en/Quarter-life_crisis)，为必要之事。
 * **能力**清单：面对世界，解决问题的基石。建立自己的[能力圈](https://www.wikiwand.com/en/Circle_of_competence)，确定边界，学习迁移。
 * **工具**清单：外在提升的途径，**物质**基础。以[最好的工具是物我合一](https://willwang.cc/2019/03/tools)为指导，每日练习，迭代物理配置，优化所处环境。
-* **知识**清单：内在提升的途径，**心智**基础。以[元&深&广&势&专](https://willwang.cc/2017/09/books)为起点，构建[信息处理](https://www.wikiwand.com/en/Information_processing#/Bibliography)和[知识管理](https://www.wikiwand.com/en/Knowledge_management)系统，打磨[心智模块](https://www.hvst.com/posts/you-dont-need-intelligence-you-need-mindware-to-be-successful-oMWT69n9)。
+* **知识**清单：内在提升的途径，**心智**基础。以[知识论](https://www.wikiwand.com/zh-hans/%E7%9F%A5%E8%AF%86%E8%AE%BA#/%E5%A4%96%E9%83%A8%E9%93%BE%E6%8E%A5)为道，以[元&深&广&势&专](https://willwang.cc/2017/09/books)为法，构建数据，[知识](https://www.wikiwand.com/en/Knowledge_management)和[信息](https://www.wikiwand.com/en/Information_processing#/Bibliography)管理[系统](https://www.wikiwand.com/en/DIKW_pyramid)，打磨[心智模块](https://www.hvst.com/posts/you-dont-need-intelligence-you-need-mindware-to-be-successful-oMWT69n9)。
 
 <br>
 
