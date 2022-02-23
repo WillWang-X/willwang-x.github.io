@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: 一生所爱
 tags: 
@@ -16,13 +16,14 @@ published: true
 
 
 ## 0 
-	
+
 在 2018 年最后一天听了三个故事：
 	
 * 故事1: 在听某交响乐认识的[女生](https://i.imgur.com/Krl1XQ3.jpg)，本科医学来 LA 读电影，在 2018 年刚拿到自己电影的 1st award. 
 * 故事2: 有过几面之缘的校友，在 2018 年拿到了心仪的 offer，leader 是 NLP 界的李飞飞。来 USC 第一年就选了 NLP 的课程，一心想搞 NLP，终如愿。
 * 故事3: 初中时听的某歌手的[成长故事](https://mp.weixin.qq.com/s/jR1JNp2Myr8KXF7n2GeP_Q)。
 	
+
 <br>		
 
 感动之余，对自己，突然有一种「走了那么远，忘了为什么出发」的感觉。于是在 2019 早起淋浴时，一个念头冒出: 
@@ -34,7 +35,7 @@ published: true
 嗯，就起名「**一生所爱**」。
 	
 ## 1 
-	
+
 那什么是美好，幸福，靠谱，聪明和简单呢？
 	
 ### 美好
@@ -106,9 +107,9 @@ Internal happiness is reward from being in flow. Create, meditate, love, play. I
 搞明白了人生关键词，那如何去做呢？大概两个方向，提高**认知**和优化**行动**，即主题系列和清单系列。
 	
 ### 主题系列
-	
+
 > 认知塑造并影响着价值观的有效性，价值观决定你的选择，而选择和时空背景决定着你的命运走向。认知对象无非就是**自己**和**世界**。
-	
+
 一个简单但可以经常思考的问题：你想成为世界的一部分，还是让世界成为你的一部分？
 
 在这之前，把主题系列，分为 ME 系列(自己)和 TC 系列(世界)。
@@ -124,9 +125,9 @@ Internal happiness is reward from being in flow. Create, meditate, love, play. I
 <br>
 	
 ### 清单系列 [](立德立功立言)
-	
+
 > 清单，有一种要去 check 的冲动，即行动。多写清单，事前预演，事后复盘，迭代清单。行动闭环，压力测试。
-	
+
 人生，本质上，是一个时间函数。世界在你到来和离开有什么不一样呢？
 
 人生的基石是**能力**，如果能力是一个飞船，那么**知识**和**工具**就是两个强有力的助推器。飞船所开向的方向，即是人生目标。所以，你要在人生地图中，定位好你的**目标**。据此，把清单系列分为内和外。	
@@ -151,7 +152,7 @@ Internal happiness is reward from being in flow. Create, meditate, love, play. I
 - 成就清单：我对世界做了什么贡献？
 	
 ## 3
-	
+
 最后，一封《[邀请函](https://www.douban.com/note/159974140/)》赠你：
 
 > It doesn't interest me how old you are. I want to know if you will risk looking like a fool for love, for your dream, for the adventure of being alive. 
@@ -166,9 +167,9 @@ Internal happiness is reward from being in flow. Create, meditate, love, play. I
 <br>
 
 
-	
+​	
 <br>
-           
+​           
 [2019.](https://github.githistory.xyz/willwang-x/willwang-x.github.io/blob/master/_posts/2019-01-01-life-README.md)[01.01](https://github.githistory.xyz/willwang-x/willwang-x.github.io/blob/master/_posts/blogs/2019-01-01-life-README.md) 于洛杉矶 
 
 
@@ -179,5 +180,5 @@ Internal happiness is reward from being in flow. Create, meditate, love, play. I
 ### 注：
 
 - 年度关键词：2017节奏，2018算法，2019模式，2020智者，2021workflow
-- 感兴趣的词：系统，工具，领导力，复杂，数学，网络，设计，交流，趋势，tradeoff，[规模](https://book.douban.com/subject/30244461/)，[直觉](https://book.douban.com/subject/30340107/)，常识，[类比](https://book.douban.com/subject/30383926/)，历史，[真相](https://book.douban.com/subject/33387422/)，[社群](https://workflowy.com/s/public/rc0YTBuDYAcI3TA9)，语言，[品质](https://www.viacharacter.org/character-strengths)，规矩，警报系统，环境 (土壤), API, database, Information mapping, presentation, projects, 周期([cycles](https://www.wikiwand.com/en/List_of_cycles))
+- 感兴趣的词：系统，工具，领导力，复杂，数学，网络，设计，交流，趋势，tradeoff，[规模](https://book.douban.com/subject/30244461/)，[直觉](https://book.douban.com/subject/30340107/)，常识，[类比](https://book.douban.com/subject/30383926/)，历史，[真相](https://book.douban.com/subject/33387422/)，[社群](https://workflowy.com/s/public/rc0YTBuDYAcI3TA9)，语言，[品质](https://www.viacharacter.org/character-strengths)，规矩，警报系统，环境 (土壤), API, database, Information mapping, presentation, projects, 周期([cycles](https://www.wikiwand.com/en/List_of_cycles)), 镜子
 
