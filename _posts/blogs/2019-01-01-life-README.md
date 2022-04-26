@@ -20,7 +20,7 @@ published: true
 在 2018 年最后一天听了三个故事：
 	
 * 故事1: 在听某交响乐认识的[女生](https://i.imgur.com/Krl1XQ3.jpg)，本科医学来 LA 读电影，在 2018 年刚拿到自己电影的 1st award. 
-* 故事2: 有过几面之缘的校友，在 2018 年拿到了心仪的 offer，leader 是 NLP 界的李飞飞。来 USC 第一年就选了 NLP 的课程，一心想搞 NLP，终如愿。
+* 故事2: 有几面之缘的校友，在 2018 年拿到了心仪 offer，leader 是 NLP 界的李飞飞。来 USC 第一年就选了 NLP 课程，一心想搞 NLP，终如愿。
 * 故事3: 初中时听的某歌手的[成长故事](https://mp.weixin.qq.com/s/jR1JNp2Myr8KXF7n2GeP_Q)。
 	
 
@@ -48,7 +48,7 @@ published: true
 
 > 幸福的时间尺度：秒时间尺度上生发的**愉悦**、分钟小时时间尺度上生发的**专注**、超越时间尺度上生发的**意义**。- [三生有幸](https://book.douban.com/subject/27663156/)
 
-幸福有尺度，幸福也有内外，如 [naval](https://twitter.com/naval/status/1053206878157627392?lang=en) 所言：
+幸福有尺度，幸福也有内外，如 [Naval](https://twitter.com/naval/status/1053206878157627392?lang=en) 所言：
 
 Worldly happiness is reward from our evolutionary program. Get praise, money, drugs, sex. It busies the mind with craving & anxiety.
 
