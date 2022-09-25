@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About Me
+title: 你好 ...
 permalink: /about/
 ---
 
@@ -10,11 +10,11 @@ permalink: /about/
 
 白天是软件工程师，夜里是羽毛球手。周末讲脱口秀，和朋友[瞎扯](https://xiangyigegeng.club/)。
 
-闲暇，偶尔 [闲暇]。  最近 (2022年) 在[探索日常生活的沃土](http://newsletter.willwang.cc/)。
+闲暇，偶尔 [闲暇]。  最近 ( 2022 年) 在[探索日常生活的沃土](http://newsletter.willwang.cc/)。
 
 [一直在做的事情？]
 
-一直在筹办自己的葬礼。欢迎2063年来参加。
+一直在筹办自己的葬礼。欢迎 2063 年来参加。
 
 我是一个内向且 [?] 的人，所以，葬礼可能是唯一一个场合，每一人都在讨论我，而我又不用社交的时刻。
 
