@@ -5,7 +5,7 @@ tags:
 - tech
 status: publish
 type: post
-published: true
+published: false
 ---
 
 <br>
@@ -24,7 +24,7 @@ published: true
 
 后来发现Python的发明者Guido对这个两个问题都解释过。
 
-### len()的诞生源于易读 
+### len()的诞生源于易读
 
 [Why do we need len()?](https://softwareengineering.stackexchange.com/questions/231387/python-methods-vs-builtin-functions)
 > First of all, I chose len(x) over x.len() for HCI reasons (def __len__() came much later). There are two intertwined reasons actually, both HCI:
@@ -36,7 +36,7 @@ published: true
 (b) When I read code that says len(x) I know that it is asking for the length of something. This tells me two things: the result is an integer, and the argument is some kind of container. To the contrary, when I read x.len(), I have to already know that x is some kind of container implementing an interface or inheriting from a class that has a standard len(). Witness the confusion we occasionally have when a class that is not implementing a mapping has a get() or keys() method, or something that isn’t a file has a write() method.
 Saying the same thing in another way, I see ‘len‘ as a built-in operation. I’d hate to lose that. /…/
 
-### reduce的死亡源于不易读 
+### reduce的死亡源于不易读
 [What is the problem with reduce()?](https://stackoverflow.com/questions/181543/what-is-the-problem-with-reduce)
 
 > So now reduce(). This is actually the one I've always hated most, because, apart from a few examples involving + or *, almost every time I see a reduce() call with a non-trivial function argument, I need to grab pen and paper to diagram what's actually being fed into that function before I understand what the reduce() is supposed to do. So in my mind, the applicability of reduce() is pretty much limited to associative operators, and in all other cases it's better to write out the accumulation loop explicitly.

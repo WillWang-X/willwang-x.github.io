@@ -15,7 +15,7 @@ published: true
 > 独一无二的自己和不可重来的此生，假如不好好发挥作用的话，岂不是枉费了生而为人的意义了吗？ - [木村秋则](https://www.wikiwand.com/ja/%E6%9C%A8%E6%9D%91%E7%A7%8B%E5%89%87)
 
 
-## 0 
+## 0
 
 在 2018 年最后一天听了三个故事：
 	
@@ -34,7 +34,7 @@ published: true
 
 嗯，就起名「**一生所爱**」。
 	
-## 1 
+## 1
 
 那什么是美好，幸福，靠谱，聪明和简单呢？
 	
@@ -68,7 +68,7 @@ Internal happiness is reward from being in flow. Create, meditate, love, play. I
 
 <br>
 
-### 聪明 
+### 聪明
 
 > 真正的**聪明** ＝（神经智力＋经验智力）＊反省智力。- [工作谈](https://www.yangzhiping.com/worksmarter/README)
 
@@ -97,12 +97,12 @@ Internal happiness is reward from being in flow. Create, meditate, love, play. I
 简单背后的功课是：
 
 * **主动做功**：你的能量想要去哪里，优化还是救火？[逆水行舟，不进则退](https://willwang.cc/2021/11/su-shi-and-env)。做功以避免失控，主动以获得掌控。
-* **开放系统**：向内探索[书影音](https://willwang.cc/2020/08/star-pocket)，[远离舒适圈](https://willwang.cc/2021/04/s-and-adventure)；向外[碰撞](https://willwang.cc/2020/12/3-fall-and-rise)人事物，刺激认知。积累以获得时间的奖赏。
+* **开放系统**：向内探索[书影音](https://willwang.cc/2020/08/star-pocket)，[扩大舒适圈](https://willwang.cc/2021/04/s-and-adventure)；向外[碰撞](https://willwang.cc/2020/12/3-fall-and-rise)人事物，刺激认知。积累以获得时间的奖赏。
 * **智能生活**：复杂的事情简单化（单点），简单的事情标准化（局部），标准的事情流程化（全局），流程的事情自动化（上下游）。优化心智和物理工具，以降低不确定性。
 
 <br>
 	
-## 2 
+## 2
 
 搞明白了人生关键词，那如何去做呢？大概两个方向，提高**认知**和优化**行动**，即主题系列和清单系列。
 	

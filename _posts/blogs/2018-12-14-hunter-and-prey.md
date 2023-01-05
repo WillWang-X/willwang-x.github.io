@@ -5,7 +5,7 @@ tags:
 - random
 status: publish
 type: post
-published: true
+published: false
 ---
 
 ## 1
@@ -24,7 +24,7 @@ published: true
 
 来看一个参考答案：[《怎样花两年时间去面试一个人》](http://mindhacks.cn/2011/11/04/how-to-interview-a-person-for-two-years/)。
 
-## 2 
+## 2
 
 之后与一个朋友聊起这句话，他先是一怔，我以为他是受到了启发，心中高兴。然而接下来他说的话虽然简单，却某种程度启发了我。
 
@@ -54,7 +54,7 @@ published: true
 
 在成为牛人之前，不要太**清高**，先需要干一些脏活，累活。
 
-## 4 
+## 4
 
 最后分享一个故事。
 
