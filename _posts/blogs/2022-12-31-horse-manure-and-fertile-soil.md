@@ -101,7 +101,7 @@ published: true
 
 我们常说彩虹，红橙黄绿蓝靛紫，但是彩虹是连续的光谱，我们按特定范围的波长分类成七色，但有些文化里，彩虹只有6种颜色。因为，他们没有区别蓝靛。当然，还有5种颜色的彩虹。类比到情绪里，当你说情绪不好，可能是 uneasy，down, sad or others. 而不仅仅是 good or bad.
 
-而未能欣赏的音乐是说，如果你习惯了流行西方古典音乐，第一次听[甘美兰音乐](https://youtu.be/UEWCCSuHsuQ?t=129)，会认为自己听到了混乱的噪音。因为现在流行的西方古典音乐多使用[十二平均律](https://www.wikiwand.com/zh-hans/%E5%8D%81%E4%BA%8C%E5%B9%B3%E5%9D%87%E5%BE%8B#%E5%8D%81%E4%BA%8C%E5%B9%B3%E5%9D%87%E5%BE%8B%E6%B5%81%E8%A1%8C%E4%B8%96%E7%95%8C)，即[等距十二声音阶](https://www.wikiwand.com/zh-hans/%E9%9F%B3%E9%98%B6#%E5%8D%8A%E9%9F%B3%E9%9F%B3%E9%9A%8E)，而甘美兰音乐多使用[非等距七声音阶](https://www.wikiwand.com/zh-hans/%E7%94%98%E7%BE%8E%E8%98%AD#%E9%9F%B3%E9%9A%8E)。
+我们习惯了流行西方古典音乐，第一次听[甘美兰音乐](https://youtu.be/UEWCCSuHsuQ?t=129)，可能会认为自己听到了混乱的噪音。因为现在流行的西方古典音乐多使用[十二平均律](https://www.wikiwand.com/zh-hans/%E5%8D%81%E4%BA%8C%E5%B9%B3%E5%9D%87%E5%BE%8B#%E5%8D%81%E4%BA%8C%E5%B9%B3%E5%9D%87%E5%BE%8B%E6%B5%81%E8%A1%8C%E4%B8%96%E7%95%8C)，即[等距十二声音阶](https://www.wikiwand.com/zh-hans/%E9%9F%B3%E9%98%B6#%E5%8D%8A%E9%9F%B3%E9%9F%B3%E9%9A%8E)，而甘美兰音乐多使用[非等距七声音阶](https://www.wikiwand.com/zh-hans/%E7%94%98%E7%BE%8E%E8%98%AD#%E9%9F%B3%E9%9A%8E)。
 
 没有概念，所有的感觉输入都只是噪音。而体验盲区的你，无法听懂，便难以交流。
 
