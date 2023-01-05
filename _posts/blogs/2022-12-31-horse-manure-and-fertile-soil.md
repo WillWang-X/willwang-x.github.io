@@ -18,7 +18,7 @@ published: true
 
 
 
-![Friend - E](https://i.imgur.com/Qto7MTg.jpg)
+![Friend - E](https://i.imgur.com/URVE4AV.jpg)
 
 <center><font color="grey"> NY Boy E at Palos Verdes Stables, LA</font>  </center>
 
