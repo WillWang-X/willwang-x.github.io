@@ -18,9 +18,9 @@ published: true
 
 
 
-![soil-cover](https://i.imgur.com/h7OvtvS.jpg)
+![Friend - E](https://i.imgur.com/Qto7MTg.jpg)
 
-<center><font color="grey"> Yohji Yamamoto </font>  </center>
+<center><font color="grey"> NY Boy E at Palos Verdes Stables, LA</font>  </center>
 
 
 ## 0
