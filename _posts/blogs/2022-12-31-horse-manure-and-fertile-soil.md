@@ -117,10 +117,9 @@ published: true
 
 情绪只是信使，去看看信封里的内容吧，失望多关于未达成的预期，生气多关于不公平，快乐多关于完成。这些都是抵达深处自我觉醒的线索，解开假面，直面真正的问题，多珍贵。
 
-但第一步，请叫出我 (信使们) 的名字! Name it to tame it.
+但第一步，请叫出我的名字。若你还不知道情绪信使们的名字，推荐一个APP：[How_We_Feel](https://howwefeel.org/).
 
-推荐一个 APP: [How_We_Feel](https://howwefeel.org/).
-
+Name it to tame it.
 
 ## 3 远离信息世界的漩涡
 
