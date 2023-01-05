@@ -50,7 +50,7 @@ published: true
 
 读过的书中，柳比歇夫算一个。一个热爱时间的人，善于利用时间的下脚料供自己做有益的事，而且还善于把命运给他下的绊子变成好事。
 
-见过的人里，Leonard Adleman 算一个。Leonard Adleman 是我读书时的教授，上课时，他说最近几年每一天从早到晚都在研究一个问题：[Prene_theory](https://adleman.usc.edu/memes-genes-and-cenes/)，什么是进化的大一统理论呢？他来开这门课，也是为了学生们讨论，去伪存真。
+见过的人里，Leonard Adleman 算一个。Leonard Adleman 是我读书时的教授，上课时，他说最近几年每一天从早到晚都在研究一个问题：[Prene_theory](https://adleman.usc.edu/memes-genes-and-cenes/)，什么是进化的大一统理论？他来开这门课，也是为了学生们讨论，去伪存真。
 
 拥有这样的生活沃土，着实令人羡慕。
 
