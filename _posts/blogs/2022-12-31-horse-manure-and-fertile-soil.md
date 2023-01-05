@@ -22,6 +22,8 @@ published: true
 
 <center><font color="grey"> NY Boy E at Palos Verdes Stables, LA</font>  </center>
 
+<br>
+<br>
 
 ## 0
 
