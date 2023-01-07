@@ -246,7 +246,8 @@ ChatGPT 加其他让这成为了可能。
 <br>
 <br>
 
-2022.12.31  <br> 贝尔维尤星巴克
+[2022.12.31](https://github.githistory.xyz/willwangcc/willwang-x.github.io/blob/master/_posts/blogs/2022-12-31-horse-manure-and-fertile-soil.md)  
+<br> 贝尔维尤星巴克
  <br>
  <br>
 
