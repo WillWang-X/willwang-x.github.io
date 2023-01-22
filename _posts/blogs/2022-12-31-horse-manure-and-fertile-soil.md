@@ -149,7 +149,7 @@ Name it to tame it. You can't change what you don't notice.
 
 1894年，英国《泰晤士报》说：在五十年内，伦敦的每条街道都将被埋在九英尺的马粪之下。
 
-当然，马粪危机，并没有出现，因为汽车出现了。
+当然，[马粪危机](https://www.wikiwand.com/en/Great_horse_manure_crisis_of_1894)，并没有出现，因为汽车出现了。
 
 用观史的心态，观当下。
 
