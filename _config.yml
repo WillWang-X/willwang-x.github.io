@@ -1,8 +1,8 @@
 markdown: kramdown
 permalink: /:year/:month/:title
 title: 大象植物园客厅
-url: https://willwang-x.github.io/
-subscribe: https://willwang-x.github.io/
+url: https://willwangcc.github.io/
+subscribe: https://willwangcc.github.io/
 exclude: [ README.md, newpost.rb ]
 domain:
 author: willwang
