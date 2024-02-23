@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: 重新发现核函数
 tags:
@@ -13,7 +13,7 @@ published: true
 问题始于，我从在魔鬼那里学会了: [Kernel Trick](https://www.zhihu.com/question/21094489/answer/86273196)
 
 ## 1.数据升维
-	
+
 那如何实现呢？更精确地说：如何使数据升维呢？
 	
 从SVM我们知道了那个用来分类的函数：
@@ -31,7 +31,7 @@ published: true
 ![投射](https://i.imgur.com/C5f7dDg.gif)
 	
 ## 2. 简化计算
-	
+
 这样就好了么？数据升维，我们是可以找到超平面了，但是也意味着我们计算量上升了。
 	
 来体会一下：
@@ -39,13 +39,13 @@ published: true
 ![数据升维点乘计算](https://i.imgur.com/zOkIYCc.jpg)
 	
 > 假如我们对一个二维空间做映射，选择的新空间是原始空间的所有一阶和二阶的组合，得到了五个维度；如果原始空间是三维，那么我们会得到 19 维的新空间，这个数目是呈爆炸性增长的。
-	
+
 那怎么办呢？
 	
 有高人指点：
 	
 > 数据升维的本质是找到一种映射关系，使得在高维空间能够刻画这些数据在低维空间的**分布**。
-	
+
 分布？简而言之，就是数据之间的关系，不管在什么空间，数据之间的关系都是相似的。
 	
 来来来，再看看，我们分类函数的特点: **Dot Product.**
@@ -70,12 +70,12 @@ published: true
 再后来，人们把这个函数就**「kernel function」**! 
 	
 ## 3. 想多玩一会？
-	
+
 - 有兴趣的话两本书可以读一读: [《Learning with Kernels》](https://book.douban.com/subject/1763633/), [《Kernel Methods for Pattern Analysis》](https://book.douban.com/subject/1789537/)
 - 那如何找到这个Kernel Function呢？呃，这个有点复杂。
 	
 ## 4. 感谢
-	
+
 0. Credit to Master Zhao, Wen Zhong, Yue 	
 1. [Statistical and causal approaches to machine learning](https://www.youtube.com/watch?time_continue=29&v=ek9jwRA2Jio) : 对机器学习的核心概念介绍的清晰明了。
 2. [支持向量机: Kernel](http://blog.pluskid.org/?p=685) : 通熟易懂系列，且有公式推导。

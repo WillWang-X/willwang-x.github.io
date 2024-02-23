@@ -1,4 +1,4 @@
---- 
+---
 layout: post
 title: 惊喜和规律
 tags:
