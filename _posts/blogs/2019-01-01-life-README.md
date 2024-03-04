@@ -88,7 +88,7 @@ Internal happiness is reward from being in flow. Create, meditate, love, play. I
 
 所谓创建秩序，如薛定谔在《[生命是什么](https://www.wikiwand.com/en/What_Is_Life%3F)》所言：「人活着就是在对抗**熵增定律**，生命以负熵为生。」[熵增定律](https://www.wikiwand.com/en/Second_law_of_thermodynamics)指，在一个**孤立系统**里，如果**无外力做功**，其**总混乱度**（即熵）会不断增大。
 
-所以[问题](https://www.zhihu.com/question/27343287/answer/1184500866)变成，在一个系统中，如何从混沌无序走向有序？
+所以问题变成，在一个系统中，如何从混沌无序走向有序？
 
 研究这个规律的学科，叫做「[耗散结构理论](https://www.wikiwand.com/en/Dissipative_system)」。耗散结构核心特性是**开放性**，**远离平衡态**，**非线形**。
 
